@@ -21,5 +21,6 @@
         "4.0.0": "getProvider"
       }
     }
-  }
+  },
+  "license": "GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007"
 }
