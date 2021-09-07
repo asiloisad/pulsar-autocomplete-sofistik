@@ -613,5 +613,26 @@
     "BRIC",
     "INTE"
   ],
-  "TEMPLATE": []
+  "TEMPLATE": [],
+  "BASICS": [
+    "HEAD",
+    "END",
+    "TXB",
+    "TXE",
+    "ECHO",
+    "UNIT",
+    "PAGE",
+    "SIZE",
+    "GNT",
+    "GPL",
+    "GFA",
+    "GGDP",
+    "GTXT",
+    "GSCA",
+    "GCOL",
+    "GPLI",
+    "GPMI",
+    "GTXI",
+    "GFAI"
+  ]
 }
