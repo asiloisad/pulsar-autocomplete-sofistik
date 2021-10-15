@@ -20228,6 +20228,14 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "PHI",
+    "module": "ELLA",
+    "command": "CALC",
+    "type": "property",
+    "leftLabel": "ELLA CALC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "LINF",
     "module": "ELLA",
     "type": "keyword",
@@ -20870,6 +20878,78 @@
   },
   {
     "text": "DIRT",
+    "module": "ELLA",
+    "command": "TRAI",
+    "type": "property",
+    "leftLabel": "ELLA TRAI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FRB",
+    "module": "ELLA",
+    "command": "TRAI",
+    "type": "property",
+    "leftLabel": "ELLA TRAI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DAB",
+    "module": "ELLA",
+    "command": "TRAI",
+    "type": "property",
+    "leftLabel": "ELLA TRAI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "BOGI",
+    "module": "ELLA",
+    "command": "TRAI",
+    "type": "property",
+    "leftLabel": "ELLA TRAI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FRBO",
+    "module": "ELLA",
+    "command": "TRAI",
+    "type": "property",
+    "leftLabel": "ELLA TRAI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DABO",
+    "module": "ELLA",
+    "command": "TRAI",
+    "type": "property",
+    "leftLabel": "ELLA TRAI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "WHEE",
+    "module": "ELLA",
+    "command": "TRAI",
+    "type": "property",
+    "leftLabel": "ELLA TRAI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FRWH",
+    "module": "ELLA",
+    "command": "TRAI",
+    "type": "property",
+    "leftLabel": "ELLA TRAI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DAWH",
+    "module": "ELLA",
+    "command": "TRAI",
+    "type": "property",
+    "leftLabel": "ELLA TRAI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "YEX",
     "module": "ELLA",
     "command": "TRAI",
     "type": "property",
@@ -30178,6 +30258,70 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "P2",
+    "module": "SOFILOAD",
+    "command": "TRAI",
+    "type": "property",
+    "leftLabel": "SOFILOAD TRAI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "P3",
+    "module": "SOFILOAD",
+    "command": "TRAI",
+    "type": "property",
+    "leftLabel": "SOFILOAD TRAI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "P4",
+    "module": "SOFILOAD",
+    "command": "TRAI",
+    "type": "property",
+    "leftLabel": "SOFILOAD TRAI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "P5",
+    "module": "SOFILOAD",
+    "command": "TRAI",
+    "type": "property",
+    "leftLabel": "SOFILOAD TRAI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "P6",
+    "module": "SOFILOAD",
+    "command": "TRAI",
+    "type": "property",
+    "leftLabel": "SOFILOAD TRAI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "P7",
+    "module": "SOFILOAD",
+    "command": "TRAI",
+    "type": "property",
+    "leftLabel": "SOFILOAD TRAI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "P8",
+    "module": "SOFILOAD",
+    "command": "TRAI",
+    "type": "property",
+    "leftLabel": "SOFILOAD TRAI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "P9",
+    "module": "SOFILOAD",
+    "command": "TRAI",
+    "type": "property",
+    "leftLabel": "SOFILOAD TRAI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "PFAC",
     "module": "SOFILOAD",
     "command": "TRAI",
@@ -30243,14 +30387,6 @@
   },
   {
     "text": "XCON",
-    "module": "SOFILOAD",
-    "command": "TRAI",
-    "type": "property",
-    "leftLabel": "SOFILOAD TRAI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "YEX",
     "module": "SOFILOAD",
     "command": "TRAI",
     "type": "property",
@@ -30331,6 +30467,14 @@
   },
   {
     "text": "DAWH",
+    "module": "SOFILOAD",
+    "command": "TRAI",
+    "type": "property",
+    "leftLabel": "SOFILOAD TRAI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "YEX",
     "module": "SOFILOAD",
     "command": "TRAI",
     "type": "property",
