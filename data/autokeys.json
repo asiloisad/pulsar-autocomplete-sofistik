@@ -43865,6 +43865,14 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "POSD",
+    "module": "WING",
+    "command": "SIZ2",
+    "type": "property",
+    "leftLabel": "WING SIZ2",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "AND",
     "module": "WING",
     "type": "keyword",
@@ -45966,6 +45974,14 @@
   },
   {
     "text": "TITL",
+    "module": "WING",
+    "command": "SELE",
+    "type": "property",
+    "leftLabel": "WING SELE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NUMB",
     "module": "WING",
     "command": "SELE",
     "type": "property",
