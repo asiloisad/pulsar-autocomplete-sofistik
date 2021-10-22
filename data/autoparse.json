@@ -14,7 +14,8 @@
     "DESI",
     "NSTR",
     "CAPA",
-    "ECHO"
+    "ECHO",
+    "STRE"
   ],
   "ASE": [
     "CTRL",
@@ -552,6 +553,7 @@
     "FRIC",
     "TEND",
     "TDEL",
+    "GEOX",
     "SIZE",
     "COLO",
     "SCHH",
@@ -633,6 +635,17 @@
     "GPLI",
     "GPMI",
     "GTXI",
-    "GFAI"
+    "GFAI",
+    "@CDB",
+    "@KEY"
+  ],
+  "DECREATOR": [
+    "DSLN",
+    "DGEO",
+    "DSEL",
+    "DSLC",
+    "LC",
+    "DDEL",
+    "CTRL"
   ]
 }
