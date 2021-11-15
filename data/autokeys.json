@@ -155,10 +155,34 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "VAL3",
+    "module": "AQB",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "AQB CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "TVAR",
     "module": "AQB",
     "type": "keyword",
     "leftLabel": "AQB",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NAME",
+    "module": "AQB",
+    "command": "TVAR",
+    "type": "property",
+    "leftLabel": "AQB TVAR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VAL",
+    "module": "AQB",
+    "command": "TVAR",
+    "type": "property",
+    "leftLabel": "AQB TVAR",
     "rightLabel": "SOFiSTiK"
   },
   {
@@ -298,6 +322,14 @@
   },
   {
     "text": "LAMC",
+    "module": "AQB",
+    "command": "BEAM",
+    "type": "property",
+    "leftLabel": "AQB BEAM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LAMM",
     "module": "AQB",
     "command": "BEAM",
     "type": "property",
@@ -865,128 +897,120 @@
   {
     "text": "S",
     "module": "AQB",
-    "command": "LC",
-    "type": "property",
-    "leftLabel": "AQB LC",
+    "type": "keyword",
+    "leftLabel": "AQB",
     "rightLabel": "SOFiSTiK"
   },
   {
     "text": "NCS",
     "module": "AQB",
-    "command": "LC",
+    "command": "S",
     "type": "property",
-    "leftLabel": "AQB LC",
+    "leftLabel": "AQB S",
     "rightLabel": "SOFiSTiK"
   },
   {
     "text": "NO",
     "module": "AQB",
-    "command": "LC",
+    "command": "S",
     "type": "property",
-    "leftLabel": "AQB LC",
+    "leftLabel": "AQB S",
     "rightLabel": "SOFiSTiK"
   },
   {
     "text": "X",
     "module": "AQB",
-    "command": "LC",
+    "command": "S",
     "type": "property",
-    "leftLabel": "AQB LC",
+    "leftLabel": "AQB S",
     "rightLabel": "SOFiSTiK"
   },
   {
     "text": "N",
     "module": "AQB",
-    "command": "LC",
+    "command": "S",
     "type": "property",
-    "leftLabel": "AQB LC",
+    "leftLabel": "AQB S",
     "rightLabel": "SOFiSTiK"
   },
   {
     "text": "VY",
     "module": "AQB",
-    "command": "LC",
+    "command": "S",
     "type": "property",
-    "leftLabel": "AQB LC",
+    "leftLabel": "AQB S",
     "rightLabel": "SOFiSTiK"
   },
   {
     "text": "VZ",
     "module": "AQB",
-    "command": "LC",
+    "command": "S",
     "type": "property",
-    "leftLabel": "AQB LC",
+    "leftLabel": "AQB S",
     "rightLabel": "SOFiSTiK"
   },
   {
     "text": "MT",
     "module": "AQB",
-    "command": "LC",
+    "command": "S",
     "type": "property",
-    "leftLabel": "AQB LC",
+    "leftLabel": "AQB S",
     "rightLabel": "SOFiSTiK"
   },
   {
     "text": "MY",
     "module": "AQB",
-    "command": "LC",
+    "command": "S",
     "type": "property",
-    "leftLabel": "AQB LC",
+    "leftLabel": "AQB S",
     "rightLabel": "SOFiSTiK"
   },
   {
     "text": "MZ",
     "module": "AQB",
-    "command": "LC",
+    "command": "S",
     "type": "property",
-    "leftLabel": "AQB LC",
+    "leftLabel": "AQB S",
     "rightLabel": "SOFiSTiK"
   },
   {
     "text": "MB",
     "module": "AQB",
-    "command": "LC",
+    "command": "S",
     "type": "property",
-    "leftLabel": "AQB LC",
+    "leftLabel": "AQB S",
     "rightLabel": "SOFiSTiK"
   },
   {
     "text": "MT2",
     "module": "AQB",
-    "command": "LC",
+    "command": "S",
     "type": "property",
-    "leftLabel": "AQB LC",
+    "leftLabel": "AQB S",
     "rightLabel": "SOFiSTiK"
   },
   {
     "text": "Y",
     "module": "AQB",
-    "command": "LC",
+    "command": "S",
     "type": "property",
-    "leftLabel": "AQB LC",
+    "leftLabel": "AQB S",
     "rightLabel": "SOFiSTiK"
   },
   {
     "text": "Z",
     "module": "AQB",
-    "command": "LC",
+    "command": "S",
     "type": "property",
-    "leftLabel": "AQB LC",
+    "leftLabel": "AQB S",
     "rightLabel": "SOFiSTiK"
   },
   {
     "text": "REF",
     "module": "AQB",
-    "command": "LC",
+    "command": "S",
     "type": "property",
-    "leftLabel": "AQB LC",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "STRE",
-    "module": "AQB",
-    "type": "keyword",
-    "leftLabel": "AQB",
+    "leftLabel": "AQB S",
     "rightLabel": "SOFiSTiK"
   },
   {
@@ -1109,14 +1133,6 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "F6",
-    "module": "AQB",
-    "command": "COMB",
-    "type": "property",
-    "leftLabel": "AQB COMB",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
     "text": "LCST",
     "module": "AQB",
     "command": "COMB",
@@ -1212,6 +1228,14 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "TS",
+    "module": "AQB",
+    "command": "EIGE",
+    "type": "property",
+    "leftLabel": "AQB EIGE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "GRP",
     "module": "AQB",
     "command": "EIGE",
@@ -1220,7 +1244,7 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "LCT",
+    "text": "EXP",
     "module": "AQB",
     "command": "EIGE",
     "type": "property",
@@ -1657,6 +1681,14 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "SS0",
+    "module": "AQB",
+    "command": "DESI",
+    "type": "property",
+    "leftLabel": "AQB DESI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "C1",
     "module": "AQB",
     "command": "DESI",
@@ -1665,7 +1697,7 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "C2",
+    "text": "S2",
     "module": "AQB",
     "command": "DESI",
     "type": "property",
@@ -1721,6 +1753,14 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "MSCD",
+    "module": "AQB",
+    "command": "DESI",
+    "type": "property",
+    "leftLabel": "AQB DESI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "KTAU",
     "module": "AQB",
     "command": "DESI",
@@ -1753,15 +1793,7 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "MSCD",
-    "module": "AQB",
-    "command": "DESI",
-    "type": "property",
-    "leftLabel": "AQB DESI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "SCL",
+    "text": "SC",
     "module": "AQB",
     "command": "DESI",
     "type": "property",
@@ -1896,7 +1928,7 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "CHKD",
+    "text": "CHKC",
     "module": "AQB",
     "command": "NSTR",
     "type": "property",
@@ -1905,6 +1937,14 @@
   },
   {
     "text": "CHKT",
+    "module": "AQB",
+    "command": "NSTR",
+    "type": "property",
+    "leftLabel": "AQB NSTR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "CHKR",
     "module": "AQB",
     "command": "NSTR",
     "type": "property",
@@ -2143,6 +2183,14 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "CMNT",
+    "module": "AQB",
+    "command": "CAPA",
+    "type": "property",
+    "leftLabel": "AQB CAPA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "ECHO",
     "module": "AQB",
     "type": "keyword",
@@ -2174,125 +2222,6 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "STRE",
-    "module": "AQB",
-    "type": "keyword",
-    "leftLabel": "AQB",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "NCS",
-    "module": "AQB",
-    "command": "STRE",
-    "type": "property",
-    "leftLabel": "AQB STRE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "NOB",
-    "module": "AQB",
-    "command": "STRE",
-    "type": "property",
-    "leftLabel": "AQB STRE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X",
-    "module": "AQB",
-    "command": "STRE",
-    "type": "property",
-    "leftLabel": "AQB STRE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "N",
-    "module": "AQB",
-    "command": "STRE",
-    "type": "property",
-    "leftLabel": "AQB STRE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "VY",
-    "module": "AQB",
-    "command": "STRE",
-    "type": "property",
-    "leftLabel": "AQB STRE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "VZ",
-    "module": "AQB",
-    "command": "STRE",
-    "type": "property",
-    "leftLabel": "AQB STRE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "MT",
-    "module": "AQB",
-    "command": "STRE",
-    "type": "property",
-    "leftLabel": "AQB STRE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "MY",
-    "module": "AQB",
-    "command": "STRE",
-    "type": "property",
-    "leftLabel": "AQB STRE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "MZ",
-    "module": "AQB",
-    "command": "STRE",
-    "type": "property",
-    "leftLabel": "AQB STRE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "MB",
-    "module": "AQB",
-    "command": "STRE",
-    "type": "property",
-    "leftLabel": "AQB STRE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "MT2",
-    "module": "AQB",
-    "command": "STRE",
-    "type": "property",
-    "leftLabel": "AQB STRE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y",
-    "module": "AQB",
-    "command": "STRE",
-    "type": "property",
-    "leftLabel": "AQB STRE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Z",
-    "module": "AQB",
-    "command": "STRE",
-    "type": "property",
-    "leftLabel": "AQB STRE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "REF",
-    "module": "AQB",
-    "command": "STRE",
-    "type": "property",
-    "leftLabel": "AQB STRE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
     "text": "ASE",
     "type": "class",
     "rightLabel": "SOFiSTiK"
@@ -2314,6 +2243,38 @@
   },
   {
     "text": "VAL",
+    "module": "ASE",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "ASE CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "V2",
+    "module": "ASE",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "ASE CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "V3",
+    "module": "ASE",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "ASE CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "V4",
+    "module": "ASE",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "ASE CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GRP",
     "module": "ASE",
     "command": "CTRL",
     "type": "property",
@@ -2392,22 +2353,6 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "EMAX",
-    "module": "ASE",
-    "command": "SYST",
-    "type": "property",
-    "leftLabel": "ASE SYST",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "EMIN",
-    "module": "ASE",
-    "command": "SYST",
-    "type": "property",
-    "leftLabel": "ASE SYST",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
     "text": "PLC",
     "module": "ASE",
     "command": "SYST",
@@ -2479,7 +2424,7 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "ALF",
+    "text": "BET",
     "module": "ASE",
     "command": "STEP",
     "type": "property",
@@ -2540,6 +2485,45 @@
     "command": "STEP",
     "type": "property",
     "leftLabel": "ASE STEP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "HIST",
+    "module": "ASE",
+    "type": "keyword",
+    "leftLabel": "ASE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TYPE",
+    "module": "ASE",
+    "command": "HIST",
+    "type": "property",
+    "leftLabel": "ASE HIST",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FROM",
+    "module": "ASE",
+    "command": "HIST",
+    "type": "property",
+    "leftLabel": "ASE HIST",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TO",
+    "module": "ASE",
+    "command": "HIST",
+    "type": "property",
+    "leftLabel": "ASE HIST",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "INC",
+    "module": "ASE",
+    "command": "HIST",
+    "type": "property",
+    "leftLabel": "ASE HIST",
     "rightLabel": "SOFiSTiK"
   },
   {
@@ -2607,6 +2591,30 @@
   },
   {
     "text": "DMIN",
+    "module": "ASE",
+    "command": "ULTI",
+    "type": "property",
+    "leftLabel": "ASE ULTI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SLOW",
+    "module": "ASE",
+    "command": "ULTI",
+    "type": "property",
+    "leftLabel": "ASE ULTI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "EPSC",
+    "module": "ASE",
+    "command": "ULTI",
+    "type": "property",
+    "leftLabel": "ASE ULTI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "EPSS",
     "module": "ASE",
     "command": "ULTI",
     "type": "property",
@@ -2700,6 +2708,22 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "NO",
+    "module": "ASE",
+    "command": "PLOT",
+    "type": "property",
+    "leftLabel": "ASE PLOT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "XI",
+    "module": "ASE",
+    "command": "PLOT",
+    "type": "property",
+    "leftLabel": "ASE PLOT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "CREP",
     "module": "ASE",
     "type": "keyword",
@@ -2731,23 +2755,15 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "RH",
-    "module": "ASE",
-    "command": "CREP",
-    "type": "property",
-    "leftLabel": "ASE CREP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "TEMP",
-    "module": "ASE",
-    "command": "CREP",
-    "type": "property",
-    "leftLabel": "ASE CREP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
     "text": "BEAM",
+    "module": "ASE",
+    "command": "CREP",
+    "type": "property",
+    "leftLabel": "ASE CREP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "RCRE",
     "module": "ASE",
     "command": "CREP",
     "type": "property",
@@ -2843,14 +2859,6 @@
   },
   {
     "text": "FACD",
-    "module": "ASE",
-    "command": "GRP",
-    "type": "property",
-    "leftLabel": "ASE GRP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "FACT",
     "module": "ASE",
     "command": "GRP",
     "type": "property",
@@ -3097,6 +3105,38 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "BWES",
+    "module": "ASE",
+    "command": "GRP2",
+    "type": "property",
+    "leftLabel": "ASE GRP2",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ST_M",
+    "module": "ASE",
+    "command": "GRP2",
+    "type": "property",
+    "leftLabel": "ASE GRP2",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "QU_M",
+    "module": "ASE",
+    "command": "GRP2",
+    "type": "property",
+    "leftLabel": "ASE GRP2",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "QEMY",
+    "module": "ASE",
+    "command": "GRP2",
+    "type": "property",
+    "leftLabel": "ASE GRP2",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "ELEM",
     "module": "ASE",
     "type": "keyword",
@@ -3129,6 +3169,38 @@
   },
   {
     "text": "FACL",
+    "module": "ASE",
+    "command": "ELEM",
+    "type": "property",
+    "leftLabel": "ASE ELEM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FCTK",
+    "module": "ASE",
+    "command": "ELEM",
+    "type": "property",
+    "leftLabel": "ASE ELEM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "PREX",
+    "module": "ASE",
+    "command": "ELEM",
+    "type": "property",
+    "leftLabel": "ASE ELEM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "EPSC",
+    "module": "ASE",
+    "command": "ELEM",
+    "type": "property",
+    "leftLabel": "ASE ELEM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "EPSS",
     "module": "ASE",
     "command": "ELEM",
     "type": "property",
@@ -3340,7 +3412,7 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "LCB",
+    "text": "LCR",
     "module": "ASE",
     "command": "REIQ",
     "type": "property",
@@ -3380,6 +3452,22 @@
   },
   {
     "text": "NAME",
+    "module": "ASE",
+    "command": "STEX",
+    "type": "property",
+    "leftLabel": "ASE STEX",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "OPT",
+    "module": "ASE",
+    "command": "STEX",
+    "type": "property",
+    "leftLabel": "ASE STEX",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NONL",
     "module": "ASE",
     "command": "STEX",
     "type": "property",
@@ -3450,14 +3538,6 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "STOR",
-    "module": "ASE",
-    "command": "OBLI",
-    "type": "property",
-    "leftLabel": "ASE OBLI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
     "text": "SLIP",
     "module": "ASE",
     "type": "keyword",
@@ -3482,6 +3562,14 @@
   },
   {
     "text": "NOEL",
+    "module": "ASE",
+    "command": "SLIP",
+    "type": "property",
+    "leftLabel": "ASE SLIP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "MUE",
     "module": "ASE",
     "command": "SLIP",
     "type": "property",
@@ -3544,6 +3632,14 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "DOZ",
+    "module": "ASE",
+    "command": "VOLU",
+    "type": "property",
+    "leftLabel": "ASE VOLU",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "PLC",
     "module": "ASE",
     "command": "VOLU",
@@ -3569,6 +3665,14 @@
   },
   {
     "text": "MASS",
+    "module": "ASE",
+    "command": "VOLU",
+    "type": "property",
+    "leftLabel": "ASE VOLU",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "OPT",
     "module": "ASE",
     "command": "VOLU",
     "type": "property",
@@ -3703,6 +3807,14 @@
   },
   {
     "text": "YM",
+    "module": "ASE",
+    "command": "LAUN",
+    "type": "property",
+    "leftLabel": "ASE LAUN",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ZM",
     "module": "ASE",
     "command": "LAUN",
     "type": "property",
@@ -4215,6 +4327,14 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "OPT",
+    "module": "ASE",
+    "command": "EIGE",
+    "type": "property",
+    "leftLabel": "ASE EIGE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "MASS",
     "module": "ASE",
     "type": "keyword",
@@ -4271,6 +4391,14 @@
   },
   {
     "text": "MZZ",
+    "module": "ASE",
+    "command": "MASS",
+    "type": "property",
+    "leftLabel": "ASE MASS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SELE",
     "module": "ASE",
     "command": "MASS",
     "type": "property",
@@ -4523,6 +4651,14 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "SCS",
+    "module": "ASE",
+    "command": "DESI",
+    "type": "property",
+    "leftLabel": "ASE DESI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "SS1",
     "module": "ASE",
     "command": "DESI",
@@ -4539,6 +4675,14 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "SS0",
+    "module": "ASE",
+    "command": "DESI",
+    "type": "property",
+    "leftLabel": "ASE DESI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "C1",
     "module": "ASE",
     "command": "DESI",
@@ -4547,7 +4691,7 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "C2",
+    "text": "S2",
     "module": "ASE",
     "command": "DESI",
     "type": "property",
@@ -4595,7 +4739,7 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "TSV",
+    "text": "TVS",
     "module": "ASE",
     "command": "DESI",
     "type": "property",
@@ -4643,7 +4787,15 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "SCL",
+    "text": "SC",
+    "module": "ASE",
+    "command": "DESI",
+    "type": "property",
+    "leftLabel": "ASE DESI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DELR",
     "module": "ASE",
     "command": "DESI",
     "type": "property",
@@ -4762,6 +4914,14 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "FFCT",
+    "module": "ASE",
+    "command": "NSTR",
+    "type": "property",
+    "leftLabel": "ASE NSTR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "CHKC",
     "module": "ASE",
     "command": "NSTR",
@@ -4779,6 +4939,14 @@
   },
   {
     "text": "CHKR",
+    "module": "ASE",
+    "command": "NSTR",
+    "type": "property",
+    "leftLabel": "ASE NSTR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "CHKS",
     "module": "ASE",
     "command": "NSTR",
     "type": "property",
@@ -4924,6 +5092,30 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "LON",
+    "module": "AQUA",
+    "command": "NORM",
+    "type": "property",
+    "leftLabel": "AQUA NORM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LAT",
+    "module": "AQUA",
+    "command": "NORM",
+    "type": "property",
+    "leftLabel": "AQUA NORM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GAMA",
+    "module": "AQUA",
+    "command": "NORM",
+    "type": "property",
+    "leftLabel": "AQUA NORM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "ALT",
     "module": "AQUA",
     "command": "NORM",
@@ -4949,6 +5141,30 @@
   },
   {
     "text": "SEIS",
+    "module": "AQUA",
+    "command": "NORM",
+    "type": "property",
+    "leftLabel": "AQUA NORM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "WCAT",
+    "module": "AQUA",
+    "command": "NORM",
+    "type": "property",
+    "leftLabel": "AQUA NORM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "UNIT",
+    "module": "AQUA",
+    "command": "NORM",
+    "type": "property",
+    "leftLabel": "AQUA NORM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LANG",
     "module": "AQUA",
     "command": "NORM",
     "type": "property",
@@ -5670,6 +5886,14 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "RFAC",
+    "module": "AQUA",
+    "command": "BMAT",
+    "type": "property",
+    "leftLabel": "AQUA BMAT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "HMAT",
     "module": "AQUA",
     "type": "keyword",
@@ -5876,7 +6100,7 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "QC",
+    "text": "MUE",
     "module": "AQUA",
     "command": "CONC",
     "type": "property",
@@ -6083,7 +6307,7 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "QS",
+    "text": "MUE",
     "module": "AQUA",
     "command": "STEE",
     "type": "property",
@@ -6211,7 +6435,23 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "QS",
+    "text": "SCM0",
+    "module": "AQUA",
+    "command": "STEE",
+    "type": "property",
+    "leftLabel": "AQUA STEE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SCM1",
+    "module": "AQUA",
+    "command": "STEE",
+    "type": "property",
+    "leftLabel": "AQUA STEE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SCM2",
     "module": "AQUA",
     "command": "STEE",
     "type": "property",
@@ -6521,7 +6761,71 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "E",
+    "text": "FK",
+    "module": "AQUA",
+    "command": "MASO",
+    "type": "property",
+    "leftLabel": "AQUA MASO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FB",
+    "module": "AQUA",
+    "command": "MASO",
+    "type": "property",
+    "leftLabel": "AQUA MASO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FM",
+    "module": "AQUA",
+    "command": "MASO",
+    "type": "property",
+    "leftLabel": "AQUA MASO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FVK0",
+    "module": "AQUA",
+    "command": "MASO",
+    "type": "property",
+    "leftLabel": "AQUA MASO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FV",
+    "module": "AQUA",
+    "command": "MASO",
+    "type": "property",
+    "leftLabel": "AQUA MASO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FT",
+    "module": "AQUA",
+    "command": "MASO",
+    "type": "property",
+    "leftLabel": "AQUA MASO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FTB",
+    "module": "AQUA",
+    "command": "MASO",
+    "type": "property",
+    "leftLabel": "AQUA MASO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SCM",
+    "module": "AQUA",
+    "command": "MASO",
+    "type": "property",
+    "leftLabel": "AQUA MASO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "EPST",
     "module": "AQUA",
     "command": "MASO",
     "type": "property",
@@ -6554,94 +6858,6 @@
   },
   {
     "text": "ALFA",
-    "module": "AQUA",
-    "command": "MASO",
-    "type": "property",
-    "leftLabel": "AQUA MASO",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "SCM",
-    "module": "AQUA",
-    "command": "MASO",
-    "type": "property",
-    "leftLabel": "AQUA MASO",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "E90",
-    "module": "AQUA",
-    "command": "MASO",
-    "type": "property",
-    "leftLabel": "AQUA MASO",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "M90",
-    "module": "AQUA",
-    "command": "MASO",
-    "type": "property",
-    "leftLabel": "AQUA MASO",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "OAL",
-    "module": "AQUA",
-    "command": "MASO",
-    "type": "property",
-    "leftLabel": "AQUA MASO",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "OAF",
-    "module": "AQUA",
-    "command": "MASO",
-    "type": "property",
-    "leftLabel": "AQUA MASO",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "FCN",
-    "module": "AQUA",
-    "command": "MASO",
-    "type": "property",
-    "leftLabel": "AQUA MASO",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "FC",
-    "module": "AQUA",
-    "command": "MASO",
-    "type": "property",
-    "leftLabel": "AQUA MASO",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "FT",
-    "module": "AQUA",
-    "command": "MASO",
-    "type": "property",
-    "leftLabel": "AQUA MASO",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "FV",
-    "module": "AQUA",
-    "command": "MASO",
-    "type": "property",
-    "leftLabel": "AQUA MASO",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "FHS",
-    "module": "AQUA",
-    "command": "MASO",
-    "type": "property",
-    "leftLabel": "AQUA MASO",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "FTB",
     "module": "AQUA",
     "command": "MASO",
     "type": "property",
@@ -6697,6 +6913,14 @@
   },
   {
     "text": "EPST",
+    "module": "AQUA",
+    "command": "SSLA",
+    "type": "property",
+    "leftLabel": "AQUA SSLA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "EPSS",
     "module": "AQUA",
     "command": "SSLA",
     "type": "property",
@@ -6847,6 +7071,94 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "VAL10",
+    "module": "AQUA",
+    "command": "MEXT",
+    "type": "property",
+    "leftLabel": "AQUA MEXT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VAL11",
+    "module": "AQUA",
+    "command": "MEXT",
+    "type": "property",
+    "leftLabel": "AQUA MEXT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VAL12",
+    "module": "AQUA",
+    "command": "MEXT",
+    "type": "property",
+    "leftLabel": "AQUA MEXT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VAL13",
+    "module": "AQUA",
+    "command": "MEXT",
+    "type": "property",
+    "leftLabel": "AQUA MEXT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VAL14",
+    "module": "AQUA",
+    "command": "MEXT",
+    "type": "property",
+    "leftLabel": "AQUA MEXT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VAL15",
+    "module": "AQUA",
+    "command": "MEXT",
+    "type": "property",
+    "leftLabel": "AQUA MEXT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VAL16",
+    "module": "AQUA",
+    "command": "MEXT",
+    "type": "property",
+    "leftLabel": "AQUA MEXT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VAL17",
+    "module": "AQUA",
+    "command": "MEXT",
+    "type": "property",
+    "leftLabel": "AQUA MEXT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VAL18",
+    "module": "AQUA",
+    "command": "MEXT",
+    "type": "property",
+    "leftLabel": "AQUA MEXT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VAL19",
+    "module": "AQUA",
+    "command": "MEXT",
+    "type": "property",
+    "leftLabel": "AQUA MEXT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VAL20",
+    "module": "AQUA",
+    "command": "MEXT",
+    "type": "property",
+    "leftLabel": "AQUA MEXT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "BORE",
     "module": "AQUA",
     "type": "keyword",
@@ -6911,6 +7223,22 @@
   },
   {
     "text": "ALF",
+    "module": "AQUA",
+    "command": "BORE",
+    "type": "property",
+    "leftLabel": "AQUA BORE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "HGWL",
+    "module": "AQUA",
+    "command": "BORE",
+    "type": "property",
+    "leftLabel": "AQUA BORE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "HGWH",
     "module": "AQUA",
     "command": "BORE",
     "type": "property",
@@ -7006,6 +7334,22 @@
   },
   {
     "text": "PHI",
+    "module": "AQUA",
+    "command": "BLAY",
+    "type": "property",
+    "leftLabel": "AQUA BLAY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GAM",
+    "module": "AQUA",
+    "command": "BLAY",
+    "type": "property",
+    "leftLabel": "AQUA BLAY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GAMA",
     "module": "AQUA",
     "command": "BLAY",
     "type": "property",
@@ -7133,6 +7477,14 @@
   },
   {
     "text": "CA2",
+    "module": "AQUA",
+    "command": "BBAX",
+    "type": "property",
+    "leftLabel": "AQUA BBAX",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "PMAX",
     "module": "AQUA",
     "command": "BBAX",
     "type": "property",
@@ -20111,6 +20463,46 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "V2",
+    "module": "ELLA",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "ELLA CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "V3",
+    "module": "ELLA",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "ELLA CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "V4",
+    "module": "ELLA",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "ELLA CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "V5",
+    "module": "ELLA",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "ELLA CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "V6",
+    "module": "ELLA",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "ELLA CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "GAX",
     "module": "ELLA",
     "type": "keyword",
@@ -20237,22 +20629,6 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "SA",
-    "module": "ELLA",
-    "command": "LANE",
-    "type": "property",
-    "leftLabel": "ELLA LANE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "SE",
-    "module": "ELLA",
-    "command": "LANE",
-    "type": "property",
-    "leftLabel": "ELLA LANE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
     "text": "WR",
     "module": "ELLA",
     "command": "LANE",
@@ -20262,6 +20638,22 @@
   },
   {
     "text": "WL",
+    "module": "ELLA",
+    "command": "LANE",
+    "type": "property",
+    "leftLabel": "ELLA LANE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SA",
+    "module": "ELLA",
+    "command": "LANE",
+    "type": "property",
+    "leftLabel": "ELLA LANE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SE",
     "module": "ELLA",
     "command": "LANE",
     "type": "property",
@@ -20318,6 +20710,86 @@
   },
   {
     "text": "L",
+    "module": "ELLA",
+    "command": "LANE",
+    "type": "property",
+    "leftLabel": "ELLA LANE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "HAS",
+    "module": "ELLA",
+    "command": "LANE",
+    "type": "property",
+    "leftLabel": "ELLA LANE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "HSE",
+    "module": "ELLA",
+    "command": "LANE",
+    "type": "property",
+    "leftLabel": "ELLA LANE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "INCA",
+    "module": "ELLA",
+    "command": "LANE",
+    "type": "property",
+    "leftLabel": "ELLA LANE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "INCE",
+    "module": "ELLA",
+    "command": "LANE",
+    "type": "property",
+    "leftLabel": "ELLA LANE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "HEFF",
+    "module": "ELLA",
+    "command": "LANE",
+    "type": "property",
+    "leftLabel": "ELLA LANE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "BEFF",
+    "module": "ELLA",
+    "command": "LANE",
+    "type": "property",
+    "leftLabel": "ELLA LANE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DEFF",
+    "module": "ELLA",
+    "command": "LANE",
+    "type": "property",
+    "leftLabel": "ELLA LANE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "INCD",
+    "module": "ELLA",
+    "command": "LANE",
+    "type": "property",
+    "leftLabel": "ELLA LANE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ASL",
+    "module": "ELLA",
+    "command": "LANE",
+    "type": "property",
+    "leftLabel": "ELLA LANE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "WREF",
     "module": "ELLA",
     "command": "LANE",
     "type": "property",
@@ -20397,6 +20869,38 @@
   },
   {
     "text": "LSEQ",
+    "module": "ELLA",
+    "command": "LSEL",
+    "type": "property",
+    "leftLabel": "ELLA LSEL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "B",
+    "module": "ELLA",
+    "command": "LSEL",
+    "type": "property",
+    "leftLabel": "ELLA LSEL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "BWH",
+    "module": "ELLA",
+    "command": "LSEL",
+    "type": "property",
+    "leftLabel": "ELLA LSEL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "YMAX",
+    "module": "ELLA",
+    "command": "LSEL",
+    "type": "property",
+    "leftLabel": "ELLA LSEL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "YMIN",
     "module": "ELLA",
     "command": "LSEL",
     "type": "property",
@@ -20571,6 +21075,14 @@
   },
   {
     "text": "L6",
+    "module": "ELLA",
+    "command": "LINF",
+    "type": "property",
+    "leftLabel": "ELLA LINF",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "PHI",
     "module": "ELLA",
     "command": "LINF",
     "type": "property",
@@ -21044,6 +21556,14 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "PFAV",
+    "module": "ELLA",
+    "command": "TRAI",
+    "type": "property",
+    "leftLabel": "ELLA TRAI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "WIDT",
     "module": "ELLA",
     "command": "TRAI",
@@ -21060,23 +21580,7 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "PHI2",
-    "module": "ELLA",
-    "command": "TRAI",
-    "type": "property",
-    "leftLabel": "ELLA TRAI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
     "text": "PHIS",
-    "module": "ELLA",
-    "command": "TRAI",
-    "type": "property",
-    "leftLabel": "ELLA TRAI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "PHI4",
     "module": "ELLA",
     "command": "TRAI",
     "type": "property",
@@ -21101,6 +21605,14 @@
   },
   {
     "text": "XCON",
+    "module": "ELLA",
+    "command": "TRAI",
+    "type": "property",
+    "leftLabel": "ELLA TRAI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "YEX",
     "module": "ELLA",
     "command": "TRAI",
     "type": "property",
@@ -21181,14 +21693,6 @@
   },
   {
     "text": "DAWH",
-    "module": "ELLA",
-    "command": "TRAI",
-    "type": "property",
-    "leftLabel": "ELLA TRAI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "YEX",
     "module": "ELLA",
     "command": "TRAI",
     "type": "property",
@@ -21482,6 +21986,94 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "BW",
+    "module": "ELLA",
+    "command": "TRBL",
+    "type": "property",
+    "leftLabel": "ELLA TRBL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LW",
+    "module": "ELLA",
+    "command": "TRBL",
+    "type": "property",
+    "leftLabel": "ELLA TRBL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SNO",
+    "module": "ELLA",
+    "command": "TRBL",
+    "type": "property",
+    "leftLabel": "ELLA TRBL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FRB",
+    "module": "ELLA",
+    "command": "TRBL",
+    "type": "property",
+    "leftLabel": "ELLA TRBL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DAB",
+    "module": "ELLA",
+    "command": "TRBL",
+    "type": "property",
+    "leftLabel": "ELLA TRBL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "BOGI",
+    "module": "ELLA",
+    "command": "TRBL",
+    "type": "property",
+    "leftLabel": "ELLA TRBL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FRBO",
+    "module": "ELLA",
+    "command": "TRBL",
+    "type": "property",
+    "leftLabel": "ELLA TRBL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DABO",
+    "module": "ELLA",
+    "command": "TRBL",
+    "type": "property",
+    "leftLabel": "ELLA TRBL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "WHEE",
+    "module": "ELLA",
+    "command": "TRBL",
+    "type": "property",
+    "leftLabel": "ELLA TRBL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FRWH",
+    "module": "ELLA",
+    "command": "TRBL",
+    "type": "property",
+    "leftLabel": "ELLA TRBL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DAWH",
+    "module": "ELLA",
+    "command": "TRBL",
+    "type": "property",
+    "leftLabel": "ELLA TRBL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "SAVE",
     "module": "ELLA",
     "type": "keyword",
@@ -21683,30 +22275,6 @@
     "module": "ELLA",
     "type": "keyword",
     "leftLabel": "ELLA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "V",
-    "module": "ELLA",
-    "command": "COMB",
-    "type": "property",
-    "leftLabel": "ELLA COMB",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "P",
-    "module": "ELLA",
-    "command": "COMB",
-    "type": "property",
-    "leftLabel": "ELLA COMB",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "SYNC",
-    "module": "ELLA",
-    "command": "COMB",
-    "type": "property",
-    "leftLabel": "ELLA COMB",
     "rightLabel": "SOFiSTiK"
   },
   {
@@ -30569,6 +31137,14 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "PFAV",
+    "module": "SOFILOAD",
+    "command": "TRAI",
+    "type": "property",
+    "leftLabel": "SOFILOAD TRAI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "WIDT",
     "module": "SOFILOAD",
     "command": "TRAI",
@@ -30585,23 +31161,7 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "PHI2",
-    "module": "SOFILOAD",
-    "command": "TRAI",
-    "type": "property",
-    "leftLabel": "SOFILOAD TRAI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
     "text": "PHIS",
-    "module": "SOFILOAD",
-    "command": "TRAI",
-    "type": "property",
-    "leftLabel": "SOFILOAD TRAI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "PHI4",
     "module": "SOFILOAD",
     "command": "TRAI",
     "type": "property",
@@ -30626,6 +31186,14 @@
   },
   {
     "text": "XCON",
+    "module": "SOFILOAD",
+    "command": "TRAI",
+    "type": "property",
+    "leftLabel": "SOFILOAD TRAI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "YEX",
     "module": "SOFILOAD",
     "command": "TRAI",
     "type": "property",
@@ -30706,14 +31274,6 @@
   },
   {
     "text": "DAWH",
-    "module": "SOFILOAD",
-    "command": "TRAI",
-    "type": "property",
-    "leftLabel": "SOFILOAD TRAI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "YEX",
     "module": "SOFILOAD",
     "command": "TRAI",
     "type": "property",
@@ -31007,7 +31567,7 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "VARI",
+    "text": "DIST",
     "module": "SOFILOAD",
     "command": "TRBL",
     "type": "property",
@@ -51217,6 +51777,160 @@
     "command": "CTRL",
     "type": "property",
     "leftLabel": "DECREATOR CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "PLBCONVERTER",
+    "type": "class",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "OPT",
+    "module": "PLBCONVERTER",
+    "type": "keyword",
+    "leftLabel": "PLBCONVERTER",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "OVRT",
+    "module": "PLBCONVERTER",
+    "command": "OPT",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER OPT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TMPL",
+    "module": "PLBCONVERTER",
+    "command": "OPT",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER OPT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "IMG",
+    "module": "PLBCONVERTER",
+    "command": "OPT",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER OPT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FMT",
+    "module": "PLBCONVERTER",
+    "command": "OPT",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER OPT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FNR",
+    "module": "PLBCONVERTER",
+    "command": "OPT",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER OPT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DOCX",
+    "module": "PLBCONVERTER",
+    "type": "keyword",
+    "leftLabel": "PLBCONVERTER",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "IN",
+    "module": "PLBCONVERTER",
+    "command": "DOCX",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER DOCX",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "OUT",
+    "module": "PLBCONVERTER",
+    "command": "DOCX",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER DOCX",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TMPL",
+    "module": "PLBCONVERTER",
+    "command": "DOCX",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER DOCX",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "OVRT",
+    "module": "PLBCONVERTER",
+    "command": "DOCX",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER DOCX",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "IMG",
+    "module": "PLBCONVERTER",
+    "command": "DOCX",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER DOCX",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FMT",
+    "module": "PLBCONVERTER",
+    "command": "DOCX",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER DOCX",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FNR",
+    "module": "PLBCONVERTER",
+    "command": "DOCX",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER DOCX",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "IMG",
+    "module": "PLBCONVERTER",
+    "type": "keyword",
+    "leftLabel": "PLBCONVERTER",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "IN",
+    "module": "PLBCONVERTER",
+    "command": "IMG",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER IMG",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FNR",
+    "module": "PLBCONVERTER",
+    "command": "IMG",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER IMG",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "OVRT",
+    "module": "PLBCONVERTER",
+    "command": "IMG",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER IMG",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FMT",
+    "module": "PLBCONVERTER",
+    "command": "IMG",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER IMG",
     "rightLabel": "SOFiSTiK"
   }
 ]

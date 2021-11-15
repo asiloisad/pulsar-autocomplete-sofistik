@@ -6,7 +6,7 @@
     "BEAM",
     "TEND",
     "LC",
-    "STRE",
+    "S",
     "COMB",
     "EIGE",
     "STRE",
@@ -14,13 +14,13 @@
     "DESI",
     "NSTR",
     "CAPA",
-    "ECHO",
-    "STRE"
+    "ECHO"
   ],
   "ASE": [
     "CTRL",
     "SYST",
     "STEP",
+    "HIST",
     "ULTI",
     "PUSH",
     "PLOT",
@@ -647,5 +647,10 @@
     "LC",
     "DDEL",
     "CTRL"
+  ],
+  "PLBCONVERTER": [
+    "OPT",
+    "DOCX",
+    "IMG"
   ]
 }
