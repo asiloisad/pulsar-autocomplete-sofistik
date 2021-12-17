@@ -15474,6 +15474,14 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "ICSD",
+    "module": "CSM",
+    "command": "GRP",
+    "type": "property",
+    "leftLabel": "CSM GRP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "PHIF",
     "module": "CSM",
     "command": "GRP",
@@ -15499,14 +15507,6 @@
   },
   {
     "text": "FACD",
-    "module": "CSM",
-    "command": "GRP",
-    "type": "property",
-    "leftLabel": "CSM GRP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "TITL",
     "module": "CSM",
     "command": "GRP",
     "type": "property",
