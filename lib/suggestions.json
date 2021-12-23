@@ -14123,6 +14123,14 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "SELE",
+    "module": "BEMESS",
+    "command": "LC",
+    "type": "property",
+    "leftLabel": "BEMESS LC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "GRP",
     "module": "BEMESS",
     "type": "keyword",
