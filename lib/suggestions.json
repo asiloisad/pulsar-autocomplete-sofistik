@@ -11915,6 +11915,1577 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "HEAD",
+    "module": "BASICS",
+    "type": "keyword",
+    "leftLabel": "BASICS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "END",
+    "module": "BASICS",
+    "type": "keyword",
+    "leftLabel": "BASICS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TXB",
+    "module": "BASICS",
+    "type": "keyword",
+    "leftLabel": "BASICS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TXE",
+    "module": "BASICS",
+    "type": "keyword",
+    "leftLabel": "BASICS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ECHO",
+    "module": "BASICS",
+    "type": "keyword",
+    "leftLabel": "BASICS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "OPT",
+    "module": "BASICS",
+    "command": "ECHO",
+    "type": "property",
+    "leftLabel": "BASICS ECHO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VAL",
+    "module": "BASICS",
+    "command": "ECHO",
+    "type": "property",
+    "leftLabel": "BASICS ECHO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": ".",
+    "module": "BASICS",
+    "command": "ECHO",
+    "type": "property",
+    "leftLabel": "BASICS ECHO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "UNIT",
+    "module": "BASICS",
+    "type": "keyword",
+    "leftLabel": "BASICS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TYPE",
+    "module": "BASICS",
+    "command": "UNIT",
+    "type": "property",
+    "leftLabel": "BASICS UNIT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "USE",
+    "module": "BASICS",
+    "command": "UNIT",
+    "type": "property",
+    "leftLabel": "BASICS UNIT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DIG",
+    "module": "BASICS",
+    "command": "UNIT",
+    "type": "property",
+    "leftLabel": "BASICS UNIT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SET",
+    "module": "BASICS",
+    "command": "UNIT",
+    "type": "property",
+    "leftLabel": "BASICS UNIT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "PAGE",
+    "module": "BASICS",
+    "type": "keyword",
+    "leftLabel": "BASICS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FIRS",
+    "module": "BASICS",
+    "command": "PAGE",
+    "type": "property",
+    "leftLabel": "BASICS PAGE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LINE",
+    "module": "BASICS",
+    "command": "PAGE",
+    "type": "property",
+    "leftLabel": "BASICS PAGE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "MARG",
+    "module": "BASICS",
+    "command": "PAGE",
+    "type": "property",
+    "leftLabel": "BASICS PAGE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LANO",
+    "module": "BASICS",
+    "command": "PAGE",
+    "type": "property",
+    "leftLabel": "BASICS PAGE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LANI",
+    "module": "BASICS",
+    "command": "PAGE",
+    "type": "property",
+    "leftLabel": "BASICS PAGE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "UNIO",
+    "module": "BASICS",
+    "command": "PAGE",
+    "type": "property",
+    "leftLabel": "BASICS PAGE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "UNII",
+    "module": "BASICS",
+    "command": "PAGE",
+    "type": "property",
+    "leftLabel": "BASICS PAGE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FORM",
+    "module": "BASICS",
+    "command": "PAGE",
+    "type": "property",
+    "leftLabel": "BASICS PAGE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "PRIL",
+    "module": "BASICS",
+    "command": "PAGE",
+    "type": "property",
+    "leftLabel": "BASICS PAGE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "PAG",
+    "module": "BASICS",
+    "command": "PAGE",
+    "type": "property",
+    "leftLabel": "BASICS PAGE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SIZE",
+    "module": "BASICS",
+    "type": "keyword",
+    "leftLabel": "BASICS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TYPE",
+    "module": "BASICS",
+    "command": "SIZE",
+    "type": "property",
+    "leftLabel": "BASICS SIZE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "S.C.",
+    "module": "BASICS",
+    "command": "SIZE",
+    "type": "property",
+    "leftLabel": "BASICS SIZE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "W",
+    "module": "BASICS",
+    "command": "SIZE",
+    "type": "property",
+    "leftLabel": "BASICS SIZE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "H",
+    "module": "BASICS",
+    "command": "SIZE",
+    "type": "property",
+    "leftLabel": "BASICS SIZE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "MARG",
+    "module": "BASICS",
+    "command": "SIZE",
+    "type": "property",
+    "leftLabel": "BASICS SIZE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FORM",
+    "module": "BASICS",
+    "command": "SIZE",
+    "type": "property",
+    "leftLabel": "BASICS SIZE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GNT",
+    "module": "BASICS",
+    "type": "keyword",
+    "leftLabel": "BASICS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NO",
+    "module": "BASICS",
+    "command": "GNT",
+    "type": "property",
+    "leftLabel": "BASICS GNT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "S.C.",
+    "module": "BASICS",
+    "command": "GNT",
+    "type": "property",
+    "leftLabel": "BASICS GNT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "XMIN",
+    "module": "BASICS",
+    "command": "GNT",
+    "type": "property",
+    "leftLabel": "BASICS GNT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "YMIN",
+    "module": "BASICS",
+    "command": "GNT",
+    "type": "property",
+    "leftLabel": "BASICS GNT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "XMAX",
+    "module": "BASICS",
+    "command": "GNT",
+    "type": "property",
+    "leftLabel": "BASICS GNT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "YMAX",
+    "module": "BASICS",
+    "command": "GNT",
+    "type": "property",
+    "leftLabel": "BASICS GNT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "WXMI",
+    "module": "BASICS",
+    "command": "GNT",
+    "type": "property",
+    "leftLabel": "BASICS GNT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "WXMA",
+    "module": "BASICS",
+    "command": "GNT",
+    "type": "property",
+    "leftLabel": "BASICS GNT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "WYMA",
+    "module": "BASICS",
+    "command": "GNT",
+    "type": "property",
+    "leftLabel": "BASICS GNT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GPL",
+    "module": "BASICS",
+    "type": "keyword",
+    "leftLabel": "BASICS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X1",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y1",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X2",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y2",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X3",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y3",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X4",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y4",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X5",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y5",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X6",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y6",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X7",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y7",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X8",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y8",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X9",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y9",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X10",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y10",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X11",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y11",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X12",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y12",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X13",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y13",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X14",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y14",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X15",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y15",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X16",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y16",
+    "module": "BASICS",
+    "command": "GPL",
+    "type": "property",
+    "leftLabel": "BASICS GPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GFA",
+    "module": "BASICS",
+    "type": "keyword",
+    "leftLabel": "BASICS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X1",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y1",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X2",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y2",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X3",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y3",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X4",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y4",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X5",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y5",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X6",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y6",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X7",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y7",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X8",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y8",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X9",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y9",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X10",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y10",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X11",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y11",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X12",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y12",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X13",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y13",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X14",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y14",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X15",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y15",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X16",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y16",
+    "module": "BASICS",
+    "command": "GFA",
+    "type": "property",
+    "leftLabel": "BASICS GFA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GGDP",
+    "module": "BASICS",
+    "type": "keyword",
+    "leftLabel": "BASICS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TYPE",
+    "module": "BASICS",
+    "command": "GGDP",
+    "type": "property",
+    "leftLabel": "BASICS GGDP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X1",
+    "module": "BASICS",
+    "command": "GGDP",
+    "type": "property",
+    "leftLabel": "BASICS GGDP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y1",
+    "module": "BASICS",
+    "command": "GGDP",
+    "type": "property",
+    "leftLabel": "BASICS GGDP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X2",
+    "module": "BASICS",
+    "command": "GGDP",
+    "type": "property",
+    "leftLabel": "BASICS GGDP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y2",
+    "module": "BASICS",
+    "command": "GGDP",
+    "type": "property",
+    "leftLabel": "BASICS GGDP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X3",
+    "module": "BASICS",
+    "command": "GGDP",
+    "type": "property",
+    "leftLabel": "BASICS GGDP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y3",
+    "module": "BASICS",
+    "command": "GGDP",
+    "type": "property",
+    "leftLabel": "BASICS GGDP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X4",
+    "module": "BASICS",
+    "command": "GGDP",
+    "type": "property",
+    "leftLabel": "BASICS GGDP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y4",
+    "module": "BASICS",
+    "command": "GGDP",
+    "type": "property",
+    "leftLabel": "BASICS GGDP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X5",
+    "module": "BASICS",
+    "command": "GGDP",
+    "type": "property",
+    "leftLabel": "BASICS GGDP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y5",
+    "module": "BASICS",
+    "command": "GGDP",
+    "type": "property",
+    "leftLabel": "BASICS GGDP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X6",
+    "module": "BASICS",
+    "command": "GGDP",
+    "type": "property",
+    "leftLabel": "BASICS GGDP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y6",
+    "module": "BASICS",
+    "command": "GGDP",
+    "type": "property",
+    "leftLabel": "BASICS GGDP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X7",
+    "module": "BASICS",
+    "command": "GGDP",
+    "type": "property",
+    "leftLabel": "BASICS GGDP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y7",
+    "module": "BASICS",
+    "command": "GGDP",
+    "type": "property",
+    "leftLabel": "BASICS GGDP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X8",
+    "module": "BASICS",
+    "command": "GGDP",
+    "type": "property",
+    "leftLabel": "BASICS GGDP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y8",
+    "module": "BASICS",
+    "command": "GGDP",
+    "type": "property",
+    "leftLabel": "BASICS GGDP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X9",
+    "module": "BASICS",
+    "command": "GGDP",
+    "type": "property",
+    "leftLabel": "BASICS GGDP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y9",
+    "module": "BASICS",
+    "command": "GGDP",
+    "type": "property",
+    "leftLabel": "BASICS GGDP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X10",
+    "module": "BASICS",
+    "command": "GGDP",
+    "type": "property",
+    "leftLabel": "BASICS GGDP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y10",
+    "module": "BASICS",
+    "command": "GGDP",
+    "type": "property",
+    "leftLabel": "BASICS GGDP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X11",
+    "module": "BASICS",
+    "command": "GGDP",
+    "type": "property",
+    "leftLabel": "BASICS GGDP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y11",
+    "module": "BASICS",
+    "command": "GGDP",
+    "type": "property",
+    "leftLabel": "BASICS GGDP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X12",
+    "module": "BASICS",
+    "command": "GGDP",
+    "type": "property",
+    "leftLabel": "BASICS GGDP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y12",
+    "module": "BASICS",
+    "command": "GGDP",
+    "type": "property",
+    "leftLabel": "BASICS GGDP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X13",
+    "module": "BASICS",
+    "command": "GGDP",
+    "type": "property",
+    "leftLabel": "BASICS GGDP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y13",
+    "module": "BASICS",
+    "command": "GGDP",
+    "type": "property",
+    "leftLabel": "BASICS GGDP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X14",
+    "module": "BASICS",
+    "command": "GGDP",
+    "type": "property",
+    "leftLabel": "BASICS GGDP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y14",
+    "module": "BASICS",
+    "command": "GGDP",
+    "type": "property",
+    "leftLabel": "BASICS GGDP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X15",
+    "module": "BASICS",
+    "command": "GGDP",
+    "type": "property",
+    "leftLabel": "BASICS GGDP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y15",
+    "module": "BASICS",
+    "command": "GGDP",
+    "type": "property",
+    "leftLabel": "BASICS GGDP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GTXT",
+    "module": "BASICS",
+    "type": "keyword",
+    "leftLabel": "BASICS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X",
+    "module": "BASICS",
+    "command": "GTXT",
+    "type": "property",
+    "leftLabel": "BASICS GTXT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y",
+    "module": "BASICS",
+    "command": "GTXT",
+    "type": "property",
+    "leftLabel": "BASICS GTXT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TEXT",
+    "module": "BASICS",
+    "command": "GTXT",
+    "type": "property",
+    "leftLabel": "BASICS GTXT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VAL",
+    "module": "BASICS",
+    "command": "GTXT",
+    "type": "property",
+    "leftLabel": "BASICS GTXT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DIM",
+    "module": "BASICS",
+    "command": "GTXT",
+    "type": "property",
+    "leftLabel": "BASICS GTXT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ND",
+    "module": "BASICS",
+    "command": "GTXT",
+    "type": "property",
+    "leftLabel": "BASICS GTXT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GSCA",
+    "module": "BASICS",
+    "type": "keyword",
+    "leftLabel": "BASICS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X1",
+    "module": "BASICS",
+    "command": "GSCA",
+    "type": "property",
+    "leftLabel": "BASICS GSCA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y1",
+    "module": "BASICS",
+    "command": "GSCA",
+    "type": "property",
+    "leftLabel": "BASICS GSCA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X2",
+    "module": "BASICS",
+    "command": "GSCA",
+    "type": "property",
+    "leftLabel": "BASICS GSCA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y2",
+    "module": "BASICS",
+    "command": "GSCA",
+    "type": "property",
+    "leftLabel": "BASICS GSCA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TEXT",
+    "module": "BASICS",
+    "command": "GSCA",
+    "type": "property",
+    "leftLabel": "BASICS GSCA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VAL",
+    "module": "BASICS",
+    "command": "GSCA",
+    "type": "property",
+    "leftLabel": "BASICS GSCA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NIM",
+    "module": "BASICS",
+    "command": "GSCA",
+    "type": "property",
+    "leftLabel": "BASICS GSCA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ND",
+    "module": "BASICS",
+    "command": "GSCA",
+    "type": "property",
+    "leftLabel": "BASICS GSCA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GCOL",
+    "module": "BASICS",
+    "type": "keyword",
+    "leftLabel": "BASICS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "COL",
+    "module": "BASICS",
+    "command": "GCOL",
+    "type": "property",
+    "leftLabel": "BASICS GCOL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "R",
+    "module": "BASICS",
+    "command": "GCOL",
+    "type": "property",
+    "leftLabel": "BASICS GCOL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "G",
+    "module": "BASICS",
+    "command": "GCOL",
+    "type": "property",
+    "leftLabel": "BASICS GCOL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "B",
+    "module": "BASICS",
+    "command": "GCOL",
+    "type": "property",
+    "leftLabel": "BASICS GCOL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GPLI",
+    "module": "BASICS",
+    "type": "keyword",
+    "leftLabel": "BASICS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "IND",
+    "module": "BASICS",
+    "command": "GPLI",
+    "type": "property",
+    "leftLabel": "BASICS GPLI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "COL",
+    "module": "BASICS",
+    "command": "GPLI",
+    "type": "property",
+    "leftLabel": "BASICS GPLI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TYPE",
+    "module": "BASICS",
+    "command": "GPLI",
+    "type": "property",
+    "leftLabel": "BASICS GPLI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "WIDT",
+    "module": "BASICS",
+    "command": "GPLI",
+    "type": "property",
+    "leftLabel": "BASICS GPLI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SCAT",
+    "module": "BASICS",
+    "command": "GPLI",
+    "type": "property",
+    "leftLabel": "BASICS GPLI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GPMI",
+    "module": "BASICS",
+    "type": "keyword",
+    "leftLabel": "BASICS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "IND",
+    "module": "BASICS",
+    "command": "GPMI",
+    "type": "property",
+    "leftLabel": "BASICS GPMI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "COL",
+    "module": "BASICS",
+    "command": "GPMI",
+    "type": "property",
+    "leftLabel": "BASICS GPMI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TYPE",
+    "module": "BASICS",
+    "command": "GPMI",
+    "type": "property",
+    "leftLabel": "BASICS GPMI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SIZE",
+    "module": "BASICS",
+    "command": "GPMI",
+    "type": "property",
+    "leftLabel": "BASICS GPMI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GTXI",
+    "module": "BASICS",
+    "type": "keyword",
+    "leftLabel": "BASICS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "IND",
+    "module": "BASICS",
+    "command": "GTXI",
+    "type": "property",
+    "leftLabel": "BASICS GTXI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "COL",
+    "module": "BASICS",
+    "command": "GTXI",
+    "type": "property",
+    "leftLabel": "BASICS GTXI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "H",
+    "module": "BASICS",
+    "command": "GTXI",
+    "type": "property",
+    "leftLabel": "BASICS GTXI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "BX",
+    "module": "BASICS",
+    "command": "GTXI",
+    "type": "property",
+    "leftLabel": "BASICS GTXI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "BY",
+    "module": "BASICS",
+    "command": "GTXI",
+    "type": "property",
+    "leftLabel": "BASICS GTXI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "HALI",
+    "module": "BASICS",
+    "command": "GTXI",
+    "type": "property",
+    "leftLabel": "BASICS GTXI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VALI",
+    "module": "BASICS",
+    "command": "GTXI",
+    "type": "property",
+    "leftLabel": "BASICS GTXI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "PATH",
+    "module": "BASICS",
+    "command": "GTXI",
+    "type": "property",
+    "leftLabel": "BASICS GTXI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "EXPA",
+    "module": "BASICS",
+    "command": "GTXI",
+    "type": "property",
+    "leftLabel": "BASICS GTXI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SPAC",
+    "module": "BASICS",
+    "command": "GTXI",
+    "type": "property",
+    "leftLabel": "BASICS GTXI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FONT",
+    "module": "BASICS",
+    "command": "GTXI",
+    "type": "property",
+    "leftLabel": "BASICS GTXI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GFAI",
+    "module": "BASICS",
+    "type": "keyword",
+    "leftLabel": "BASICS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "IND",
+    "module": "BASICS",
+    "command": "GFAI",
+    "type": "property",
+    "leftLabel": "BASICS GFAI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "COL",
+    "module": "BASICS",
+    "command": "GFAI",
+    "type": "property",
+    "leftLabel": "BASICS GFAI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "STYL",
+    "module": "BASICS",
+    "command": "GFAI",
+    "type": "property",
+    "leftLabel": "BASICS GFAI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TYPE",
+    "module": "BASICS",
+    "command": "GFAI",
+    "type": "property",
+    "leftLabel": "BASICS GFAI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "@CDB",
+    "module": "BASICS",
+    "type": "keyword",
+    "leftLabel": "BASICS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "@KEY",
+    "module": "BASICS",
+    "type": "keyword",
+    "leftLabel": "BASICS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "KWH",
+    "module": "BASICS",
+    "command": "@KEY",
+    "type": "property",
+    "leftLabel": "BASICS @KEY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "KWL",
+    "module": "BASICS",
+    "command": "@KEY",
+    "type": "property",
+    "leftLabel": "BASICS @KEY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SEL1",
+    "module": "BASICS",
+    "command": "@KEY",
+    "type": "property",
+    "leftLabel": "BASICS @KEY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SEL2",
+    "module": "BASICS",
+    "command": "@KEY",
+    "type": "property",
+    "leftLabel": "BASICS @KEY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SEL3",
+    "module": "BASICS",
+    "command": "@KEY",
+    "type": "property",
+    "leftLabel": "BASICS @KEY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SEL4",
+    "module": "BASICS",
+    "command": "@KEY",
+    "type": "property",
+    "leftLabel": "BASICS @KEY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SEL5",
+    "module": "BASICS",
+    "command": "@KEY",
+    "type": "property",
+    "leftLabel": "BASICS @KEY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SEL6",
+    "module": "BASICS",
+    "command": "@KEY",
+    "type": "property",
+    "leftLabel": "BASICS @KEY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "IERR",
+    "module": "BASICS",
+    "command": "@KEY",
+    "type": "property",
+    "leftLabel": "BASICS @KEY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "BDK",
     "type": "class",
     "rightLabel": "SOFiSTiK"
@@ -12451,6 +14022,335 @@
     "command": "ECHO",
     "type": "property",
     "leftLabel": "BDK ECHO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "BEAM",
+    "type": "class",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "CTRL",
+    "module": "BEAM",
+    "type": "keyword",
+    "leftLabel": "BEAM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "OPT",
+    "module": "BEAM",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "BEAM CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ECHO",
+    "module": "BEAM",
+    "type": "keyword",
+    "leftLabel": "BEAM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "OPT",
+    "module": "BEAM",
+    "command": "ECHO",
+    "type": "property",
+    "leftLabel": "BEAM ECHO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VAL",
+    "module": "BEAM",
+    "command": "ECHO",
+    "type": "property",
+    "leftLabel": "BEAM ECHO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DSLN",
+    "module": "BEAM",
+    "type": "keyword",
+    "leftLabel": "BEAM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NO",
+    "module": "BEAM",
+    "command": "DSLN",
+    "type": "property",
+    "leftLabel": "BEAM DSLN",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "POS",
+    "module": "BEAM",
+    "type": "keyword",
+    "leftLabel": "BEAM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TITL",
+    "module": "BEAM",
+    "command": "POS",
+    "type": "property",
+    "leftLabel": "BEAM POS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "PLAC",
+    "module": "BEAM",
+    "command": "POS",
+    "type": "property",
+    "leftLabel": "BEAM POS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TEXT",
+    "module": "BEAM",
+    "command": "POS",
+    "type": "property",
+    "leftLabel": "BEAM POS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "KOTE",
+    "module": "BEAM",
+    "command": "POS",
+    "type": "property",
+    "leftLabel": "BEAM POS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LPOS",
+    "module": "BEAM",
+    "type": "keyword",
+    "leftLabel": "BEAM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X",
+    "module": "BEAM",
+    "command": "LPOS",
+    "type": "property",
+    "leftLabel": "BEAM LPOS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TITL",
+    "module": "BEAM",
+    "command": "LPOS",
+    "type": "property",
+    "leftLabel": "BEAM LPOS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "COMB",
+    "module": "BEAM",
+    "type": "keyword",
+    "leftLabel": "BEAM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LC",
+    "module": "BEAM",
+    "command": "COMB",
+    "type": "property",
+    "leftLabel": "BEAM COMB",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TYPE",
+    "module": "BEAM",
+    "command": "COMB",
+    "type": "property",
+    "leftLabel": "BEAM COMB",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TITL",
+    "module": "BEAM",
+    "command": "COMB",
+    "type": "property",
+    "leftLabel": "BEAM COMB",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DESI",
+    "module": "BEAM",
+    "type": "keyword",
+    "leftLabel": "BEAM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TETA",
+    "module": "BEAM",
+    "command": "DESI",
+    "type": "property",
+    "leftLabel": "BEAM DESI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TYPE",
+    "module": "BEAM",
+    "command": "DESI",
+    "type": "property",
+    "leftLabel": "BEAM DESI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FDX",
+    "module": "BEAM",
+    "command": "DESI",
+    "type": "property",
+    "leftLabel": "BEAM DESI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DELR",
+    "module": "BEAM",
+    "type": "keyword",
+    "leftLabel": "BEAM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DELT",
+    "module": "BEAM",
+    "command": "DELR",
+    "type": "property",
+    "leftLabel": "BEAM DELR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TYPE",
+    "module": "BEAM",
+    "command": "DELR",
+    "type": "property",
+    "leftLabel": "BEAM DELR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LRF",
+    "module": "BEAM",
+    "type": "keyword",
+    "leftLabel": "BEAM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VAL1",
+    "module": "BEAM",
+    "command": "LRF",
+    "type": "property",
+    "leftLabel": "BEAM LRF",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SRF",
+    "module": "BEAM",
+    "type": "keyword",
+    "leftLabel": "BEAM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VAL1",
+    "module": "BEAM",
+    "command": "SRF",
+    "type": "property",
+    "leftLabel": "BEAM SRF",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DEFL",
+    "module": "BEAM",
+    "type": "keyword",
+    "leftLabel": "BEAM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "PHI",
+    "module": "BEAM",
+    "command": "DEFL",
+    "type": "property",
+    "leftLabel": "BEAM DEFL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "EPCS",
+    "module": "BEAM",
+    "command": "DEFL",
+    "type": "property",
+    "leftLabel": "BEAM DEFL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "BETA",
+    "module": "BEAM",
+    "command": "DEFL",
+    "type": "property",
+    "leftLabel": "BEAM DEFL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "RH",
+    "module": "BEAM",
+    "command": "DEFL",
+    "type": "property",
+    "leftLabel": "BEAM DEFL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TEMP",
+    "module": "BEAM",
+    "command": "DEFL",
+    "type": "property",
+    "leftLabel": "BEAM DEFL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "T",
+    "module": "BEAM",
+    "command": "DEFL",
+    "type": "property",
+    "leftLabel": "BEAM DEFL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "T0",
+    "module": "BEAM",
+    "command": "DEFL",
+    "type": "property",
+    "leftLabel": "BEAM DEFL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TS",
+    "module": "BEAM",
+    "command": "DEFL",
+    "type": "property",
+    "leftLabel": "BEAM DEFL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "CRCK",
+    "module": "BEAM",
+    "type": "keyword",
+    "leftLabel": "BEAM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "WK",
+    "module": "BEAM",
+    "command": "CRCK",
+    "type": "property",
+    "leftLabel": "BEAM CRCK",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FCTE",
+    "module": "BEAM",
+    "command": "CRCK",
+    "type": "property",
+    "leftLabel": "BEAM CRCK",
     "rightLabel": "SOFiSTiK"
   },
   {
@@ -17798,6 +19698,340 @@
     "command": "ECHO",
     "type": "property",
     "leftLabel": "DBMERG ECHO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DECREATOR",
+    "type": "class",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DSLN",
+    "module": "DECREATOR",
+    "type": "keyword",
+    "leftLabel": "DECREATOR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NO",
+    "module": "DECREATOR",
+    "command": "DSLN",
+    "type": "property",
+    "leftLabel": "DECREATOR DSLN",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NCS",
+    "module": "DECREATOR",
+    "command": "DSLN",
+    "type": "property",
+    "leftLabel": "DECREATOR DSLN",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NCS2",
+    "module": "DECREATOR",
+    "command": "DSLN",
+    "type": "property",
+    "leftLabel": "DECREATOR DSLN",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "HDIV",
+    "module": "DECREATOR",
+    "command": "DSLN",
+    "type": "property",
+    "leftLabel": "DECREATOR DSLN",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FREF",
+    "module": "DECREATOR",
+    "command": "DSLN",
+    "type": "property",
+    "leftLabel": "DECREATOR DSLN",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GRP",
+    "module": "DECREATOR",
+    "command": "DSLN",
+    "type": "property",
+    "leftLabel": "DECREATOR DSLN",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TITL",
+    "module": "DECREATOR",
+    "command": "DSLN",
+    "type": "property",
+    "leftLabel": "DECREATOR DSLN",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DGEO",
+    "module": "DECREATOR",
+    "type": "keyword",
+    "leftLabel": "DECREATOR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "OPT",
+    "module": "DECREATOR",
+    "command": "DGEO",
+    "type": "property",
+    "leftLabel": "DECREATOR DGEO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ID",
+    "module": "DECREATOR",
+    "command": "DGEO",
+    "type": "property",
+    "leftLabel": "DECREATOR DGEO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X1",
+    "module": "DECREATOR",
+    "command": "DGEO",
+    "type": "property",
+    "leftLabel": "DECREATOR DGEO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y1",
+    "module": "DECREATOR",
+    "command": "DGEO",
+    "type": "property",
+    "leftLabel": "DECREATOR DGEO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Z1",
+    "module": "DECREATOR",
+    "command": "DGEO",
+    "type": "property",
+    "leftLabel": "DECREATOR DGEO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "X2",
+    "module": "DECREATOR",
+    "command": "DGEO",
+    "type": "property",
+    "leftLabel": "DECREATOR DGEO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y2",
+    "module": "DECREATOR",
+    "command": "DGEO",
+    "type": "property",
+    "leftLabel": "DECREATOR DGEO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Z2",
+    "module": "DECREATOR",
+    "command": "DGEO",
+    "type": "property",
+    "leftLabel": "DECREATOR DGEO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DRX",
+    "module": "DECREATOR",
+    "command": "DGEO",
+    "type": "property",
+    "leftLabel": "DECREATOR DGEO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DRY",
+    "module": "DECREATOR",
+    "command": "DGEO",
+    "type": "property",
+    "leftLabel": "DECREATOR DGEO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DRZ",
+    "module": "DECREATOR",
+    "command": "DGEO",
+    "type": "property",
+    "leftLabel": "DECREATOR DGEO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SA",
+    "module": "DECREATOR",
+    "command": "DGEO",
+    "type": "property",
+    "leftLabel": "DECREATOR DGEO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SE",
+    "module": "DECREATOR",
+    "command": "DGEO",
+    "type": "property",
+    "leftLabel": "DECREATOR DGEO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DSEL",
+    "module": "DECREATOR",
+    "type": "keyword",
+    "leftLabel": "DECREATOR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "OPT",
+    "module": "DECREATOR",
+    "command": "DSEL",
+    "type": "property",
+    "leftLabel": "DECREATOR DSEL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NO",
+    "module": "DECREATOR",
+    "command": "DSEL",
+    "type": "property",
+    "leftLabel": "DECREATOR DSEL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "YMIN",
+    "module": "DECREATOR",
+    "command": "DSEL",
+    "type": "property",
+    "leftLabel": "DECREATOR DSEL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ZMIN",
+    "module": "DECREATOR",
+    "command": "DSEL",
+    "type": "property",
+    "leftLabel": "DECREATOR DSEL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "YMAX",
+    "module": "DECREATOR",
+    "command": "DSEL",
+    "type": "property",
+    "leftLabel": "DECREATOR DSEL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ZMAX",
+    "module": "DECREATOR",
+    "command": "DSEL",
+    "type": "property",
+    "leftLabel": "DECREATOR DSEL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DSLC",
+    "module": "DECREATOR",
+    "type": "keyword",
+    "leftLabel": "DECREATOR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "REF",
+    "module": "DECREATOR",
+    "command": "DSLC",
+    "type": "property",
+    "leftLabel": "DECREATOR DSLC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "S",
+    "module": "DECREATOR",
+    "command": "DSLC",
+    "type": "property",
+    "leftLabel": "DECREATOR DSLC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TYPM",
+    "module": "DECREATOR",
+    "command": "DSLC",
+    "type": "property",
+    "leftLabel": "DECREATOR DSLC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TYPT",
+    "module": "DECREATOR",
+    "command": "DSLC",
+    "type": "property",
+    "leftLabel": "DECREATOR DSLC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LC",
+    "module": "DECREATOR",
+    "type": "keyword",
+    "leftLabel": "DECREATOR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NO",
+    "module": "DECREATOR",
+    "command": "LC",
+    "type": "property",
+    "leftLabel": "DECREATOR LC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DDEL",
+    "module": "DECREATOR",
+    "type": "keyword",
+    "leftLabel": "DECREATOR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NO",
+    "module": "DECREATOR",
+    "command": "DDEL",
+    "type": "property",
+    "leftLabel": "DECREATOR DDEL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "CTRL",
+    "module": "DECREATOR",
+    "type": "keyword",
+    "leftLabel": "DECREATOR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GAUS",
+    "module": "DECREATOR",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "DECREATOR CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TEND",
+    "module": "DECREATOR",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "DECREATOR CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "CINT",
+    "module": "DECREATOR",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "DECREATOR CTRL",
     "rightLabel": "SOFiSTiK"
   },
   {
@@ -25237,6 +27471,160 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "PLBCONVERTER",
+    "type": "class",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "OPT",
+    "module": "PLBCONVERTER",
+    "type": "keyword",
+    "leftLabel": "PLBCONVERTER",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "OVRT",
+    "module": "PLBCONVERTER",
+    "command": "OPT",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER OPT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TMPL",
+    "module": "PLBCONVERTER",
+    "command": "OPT",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER OPT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "IMG",
+    "module": "PLBCONVERTER",
+    "command": "OPT",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER OPT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FMT",
+    "module": "PLBCONVERTER",
+    "command": "OPT",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER OPT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FNR",
+    "module": "PLBCONVERTER",
+    "command": "OPT",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER OPT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DOCX",
+    "module": "PLBCONVERTER",
+    "type": "keyword",
+    "leftLabel": "PLBCONVERTER",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "IN",
+    "module": "PLBCONVERTER",
+    "command": "DOCX",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER DOCX",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "OUT",
+    "module": "PLBCONVERTER",
+    "command": "DOCX",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER DOCX",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TMPL",
+    "module": "PLBCONVERTER",
+    "command": "DOCX",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER DOCX",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "OVRT",
+    "module": "PLBCONVERTER",
+    "command": "DOCX",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER DOCX",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "IMG",
+    "module": "PLBCONVERTER",
+    "command": "DOCX",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER DOCX",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FMT",
+    "module": "PLBCONVERTER",
+    "command": "DOCX",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER DOCX",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FNR",
+    "module": "PLBCONVERTER",
+    "command": "DOCX",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER DOCX",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "IMG",
+    "module": "PLBCONVERTER",
+    "type": "keyword",
+    "leftLabel": "PLBCONVERTER",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "IN",
+    "module": "PLBCONVERTER",
+    "command": "IMG",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER IMG",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FNR",
+    "module": "PLBCONVERTER",
+    "command": "IMG",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER IMG",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "OVRT",
+    "module": "PLBCONVERTER",
+    "command": "IMG",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER IMG",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FMT",
+    "module": "PLBCONVERTER",
+    "command": "IMG",
+    "type": "property",
+    "leftLabel": "PLBCONVERTER IMG",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "RESULTS",
     "type": "class",
     "rightLabel": "SOFiSTiK"
@@ -26852,6 +29240,307 @@
     "command": "BRIC",
     "type": "property",
     "leftLabel": "RESULTS BRIC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SHEARWALL",
+    "type": "class",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "CTRL",
+    "module": "SHEARWALL",
+    "type": "keyword",
+    "leftLabel": "SHEARWALL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "OPT",
+    "module": "SHEARWALL",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "SHEARWALL CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VAL1",
+    "module": "SHEARWALL",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "SHEARWALL CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VAL2",
+    "module": "SHEARWALL",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "SHEARWALL CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ECHO",
+    "module": "SHEARWALL",
+    "type": "keyword",
+    "leftLabel": "SHEARWALL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "OPT",
+    "module": "SHEARWALL",
+    "command": "ECHO",
+    "type": "property",
+    "leftLabel": "SHEARWALL ECHO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VAL1",
+    "module": "SHEARWALL",
+    "command": "ECHO",
+    "type": "property",
+    "leftLabel": "SHEARWALL ECHO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LC",
+    "module": "SHEARWALL",
+    "type": "keyword",
+    "leftLabel": "SHEARWALL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NO",
+    "module": "SHEARWALL",
+    "command": "LC",
+    "type": "property",
+    "leftLabel": "SHEARWALL LC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TYPE",
+    "module": "SHEARWALL",
+    "command": "LC",
+    "type": "property",
+    "leftLabel": "SHEARWALL LC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SEL",
+    "module": "SHEARWALL",
+    "type": "keyword",
+    "leftLabel": "SHEARWALL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "REF",
+    "module": "SHEARWALL",
+    "command": "SEL",
+    "type": "property",
+    "leftLabel": "SHEARWALL SEL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NO",
+    "module": "SHEARWALL",
+    "command": "SEL",
+    "type": "property",
+    "leftLabel": "SHEARWALL SEL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TYPA",
+    "module": "SHEARWALL",
+    "command": "SEL",
+    "type": "property",
+    "leftLabel": "SHEARWALL SEL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LENA",
+    "module": "SHEARWALL",
+    "command": "SEL",
+    "type": "property",
+    "leftLabel": "SHEARWALL SEL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "MAXA",
+    "module": "SHEARWALL",
+    "command": "SEL",
+    "type": "property",
+    "leftLabel": "SHEARWALL SEL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TYPB",
+    "module": "SHEARWALL",
+    "command": "SEL",
+    "type": "property",
+    "leftLabel": "SHEARWALL SEL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LENB",
+    "module": "SHEARWALL",
+    "command": "SEL",
+    "type": "property",
+    "leftLabel": "SHEARWALL SEL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "MAXB",
+    "module": "SHEARWALL",
+    "command": "SEL",
+    "type": "property",
+    "leftLabel": "SHEARWALL SEL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DESI",
+    "module": "SHEARWALL",
+    "type": "keyword",
+    "leftLabel": "SHEARWALL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "STAT",
+    "module": "SHEARWALL",
+    "command": "DESI",
+    "type": "property",
+    "leftLabel": "SHEARWALL DESI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "CMAX",
+    "module": "SHEARWALL",
+    "command": "DESI",
+    "type": "property",
+    "leftLabel": "SHEARWALL DESI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TMAX",
+    "module": "SHEARWALL",
+    "command": "DESI",
+    "type": "property",
+    "leftLabel": "SHEARWALL DESI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TITL",
+    "module": "SHEARWALL",
+    "command": "DESI",
+    "type": "property",
+    "leftLabel": "SHEARWALL DESI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DC",
+    "module": "SHEARWALL",
+    "command": "DESI",
+    "type": "property",
+    "leftLabel": "SHEARWALL DESI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "CHCK",
+    "module": "SHEARWALL",
+    "type": "keyword",
+    "leftLabel": "SHEARWALL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "STAT",
+    "module": "SHEARWALL",
+    "command": "CHCK",
+    "type": "property",
+    "leftLabel": "SHEARWALL CHCK",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "PLOT",
+    "module": "SHEARWALL",
+    "type": "keyword",
+    "leftLabel": "SHEARWALL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TYPE",
+    "module": "SHEARWALL",
+    "command": "PLOT",
+    "type": "property",
+    "leftLabel": "SHEARWALL PLOT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VAL1",
+    "module": "SHEARWALL",
+    "command": "PLOT",
+    "type": "property",
+    "leftLabel": "SHEARWALL PLOT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "MY",
+    "module": "SHEARWALL",
+    "command": "PLOT",
+    "type": "property",
+    "leftLabel": "SHEARWALL PLOT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "MZ",
+    "module": "SHEARWALL",
+    "command": "PLOT",
+    "type": "property",
+    "leftLabel": "SHEARWALL PLOT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "RF",
+    "module": "SHEARWALL",
+    "type": "keyword",
+    "leftLabel": "SHEARWALL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NO",
+    "module": "SHEARWALL",
+    "command": "RF",
+    "type": "property",
+    "leftLabel": "SHEARWALL RF",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "AS",
+    "module": "SHEARWALL",
+    "command": "RF",
+    "type": "property",
+    "leftLabel": "SHEARWALL RF",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "D",
+    "module": "SHEARWALL",
+    "command": "RF",
+    "type": "property",
+    "leftLabel": "SHEARWALL RF",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "N",
+    "module": "SHEARWALL",
+    "command": "RF",
+    "type": "property",
+    "leftLabel": "SHEARWALL RF",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ZLVL",
+    "module": "SHEARWALL",
+    "command": "RF",
+    "type": "property",
+    "leftLabel": "SHEARWALL RF",
     "rightLabel": "SOFiSTiK"
   },
   {
@@ -42632,6 +45321,11 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "TEMPLATE",
+    "type": "class",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "TENDON",
     "type": "class",
     "rightLabel": "SOFiSTiK"
@@ -49875,2070 +52569,6 @@
     "command": "INTE",
     "type": "property",
     "leftLabel": "WING INTE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "TEMPLATE",
-    "type": "class",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "HEAD",
-    "module": "BASICS",
-    "type": "keyword",
-    "leftLabel": "BASICS",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "END",
-    "module": "BASICS",
-    "type": "keyword",
-    "leftLabel": "BASICS",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "TXB",
-    "module": "BASICS",
-    "type": "keyword",
-    "leftLabel": "BASICS",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "TXE",
-    "module": "BASICS",
-    "type": "keyword",
-    "leftLabel": "BASICS",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "ECHO",
-    "module": "BASICS",
-    "type": "keyword",
-    "leftLabel": "BASICS",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "OPT",
-    "module": "BASICS",
-    "command": "ECHO",
-    "type": "property",
-    "leftLabel": "BASICS ECHO",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "VAL",
-    "module": "BASICS",
-    "command": "ECHO",
-    "type": "property",
-    "leftLabel": "BASICS ECHO",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": ".",
-    "module": "BASICS",
-    "command": "ECHO",
-    "type": "property",
-    "leftLabel": "BASICS ECHO",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "UNIT",
-    "module": "BASICS",
-    "type": "keyword",
-    "leftLabel": "BASICS",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "TYPE",
-    "module": "BASICS",
-    "command": "UNIT",
-    "type": "property",
-    "leftLabel": "BASICS UNIT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "USE",
-    "module": "BASICS",
-    "command": "UNIT",
-    "type": "property",
-    "leftLabel": "BASICS UNIT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "DIG",
-    "module": "BASICS",
-    "command": "UNIT",
-    "type": "property",
-    "leftLabel": "BASICS UNIT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "SET",
-    "module": "BASICS",
-    "command": "UNIT",
-    "type": "property",
-    "leftLabel": "BASICS UNIT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "PAGE",
-    "module": "BASICS",
-    "type": "keyword",
-    "leftLabel": "BASICS",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "FIRS",
-    "module": "BASICS",
-    "command": "PAGE",
-    "type": "property",
-    "leftLabel": "BASICS PAGE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "LINE",
-    "module": "BASICS",
-    "command": "PAGE",
-    "type": "property",
-    "leftLabel": "BASICS PAGE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "MARG",
-    "module": "BASICS",
-    "command": "PAGE",
-    "type": "property",
-    "leftLabel": "BASICS PAGE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "LANO",
-    "module": "BASICS",
-    "command": "PAGE",
-    "type": "property",
-    "leftLabel": "BASICS PAGE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "LANI",
-    "module": "BASICS",
-    "command": "PAGE",
-    "type": "property",
-    "leftLabel": "BASICS PAGE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "UNIO",
-    "module": "BASICS",
-    "command": "PAGE",
-    "type": "property",
-    "leftLabel": "BASICS PAGE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "UNII",
-    "module": "BASICS",
-    "command": "PAGE",
-    "type": "property",
-    "leftLabel": "BASICS PAGE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "FORM",
-    "module": "BASICS",
-    "command": "PAGE",
-    "type": "property",
-    "leftLabel": "BASICS PAGE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "PRIL",
-    "module": "BASICS",
-    "command": "PAGE",
-    "type": "property",
-    "leftLabel": "BASICS PAGE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "PAG",
-    "module": "BASICS",
-    "command": "PAGE",
-    "type": "property",
-    "leftLabel": "BASICS PAGE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "SIZE",
-    "module": "BASICS",
-    "type": "keyword",
-    "leftLabel": "BASICS",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "TYPE",
-    "module": "BASICS",
-    "command": "SIZE",
-    "type": "property",
-    "leftLabel": "BASICS SIZE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "S.C.",
-    "module": "BASICS",
-    "command": "SIZE",
-    "type": "property",
-    "leftLabel": "BASICS SIZE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "W",
-    "module": "BASICS",
-    "command": "SIZE",
-    "type": "property",
-    "leftLabel": "BASICS SIZE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "H",
-    "module": "BASICS",
-    "command": "SIZE",
-    "type": "property",
-    "leftLabel": "BASICS SIZE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "MARG",
-    "module": "BASICS",
-    "command": "SIZE",
-    "type": "property",
-    "leftLabel": "BASICS SIZE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "FORM",
-    "module": "BASICS",
-    "command": "SIZE",
-    "type": "property",
-    "leftLabel": "BASICS SIZE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "GNT",
-    "module": "BASICS",
-    "type": "keyword",
-    "leftLabel": "BASICS",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "NO",
-    "module": "BASICS",
-    "command": "GNT",
-    "type": "property",
-    "leftLabel": "BASICS GNT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "S.C.",
-    "module": "BASICS",
-    "command": "GNT",
-    "type": "property",
-    "leftLabel": "BASICS GNT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "XMIN",
-    "module": "BASICS",
-    "command": "GNT",
-    "type": "property",
-    "leftLabel": "BASICS GNT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "YMIN",
-    "module": "BASICS",
-    "command": "GNT",
-    "type": "property",
-    "leftLabel": "BASICS GNT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "XMAX",
-    "module": "BASICS",
-    "command": "GNT",
-    "type": "property",
-    "leftLabel": "BASICS GNT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "YMAX",
-    "module": "BASICS",
-    "command": "GNT",
-    "type": "property",
-    "leftLabel": "BASICS GNT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "WXMI",
-    "module": "BASICS",
-    "command": "GNT",
-    "type": "property",
-    "leftLabel": "BASICS GNT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "WXMA",
-    "module": "BASICS",
-    "command": "GNT",
-    "type": "property",
-    "leftLabel": "BASICS GNT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "WYMA",
-    "module": "BASICS",
-    "command": "GNT",
-    "type": "property",
-    "leftLabel": "BASICS GNT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "GPL",
-    "module": "BASICS",
-    "type": "keyword",
-    "leftLabel": "BASICS",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X1",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y1",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X2",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y2",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X3",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y3",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X4",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y4",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X5",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y5",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X6",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y6",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X7",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y7",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X8",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y8",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X9",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y9",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X10",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y10",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X11",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y11",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X12",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y12",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X13",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y13",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X14",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y14",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X15",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y15",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X16",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y16",
-    "module": "BASICS",
-    "command": "GPL",
-    "type": "property",
-    "leftLabel": "BASICS GPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "GFA",
-    "module": "BASICS",
-    "type": "keyword",
-    "leftLabel": "BASICS",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X1",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y1",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X2",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y2",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X3",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y3",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X4",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y4",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X5",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y5",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X6",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y6",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X7",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y7",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X8",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y8",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X9",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y9",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X10",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y10",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X11",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y11",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X12",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y12",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X13",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y13",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X14",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y14",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X15",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y15",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X16",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y16",
-    "module": "BASICS",
-    "command": "GFA",
-    "type": "property",
-    "leftLabel": "BASICS GFA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "GGDP",
-    "module": "BASICS",
-    "type": "keyword",
-    "leftLabel": "BASICS",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "TYPE",
-    "module": "BASICS",
-    "command": "GGDP",
-    "type": "property",
-    "leftLabel": "BASICS GGDP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X1",
-    "module": "BASICS",
-    "command": "GGDP",
-    "type": "property",
-    "leftLabel": "BASICS GGDP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y1",
-    "module": "BASICS",
-    "command": "GGDP",
-    "type": "property",
-    "leftLabel": "BASICS GGDP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X2",
-    "module": "BASICS",
-    "command": "GGDP",
-    "type": "property",
-    "leftLabel": "BASICS GGDP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y2",
-    "module": "BASICS",
-    "command": "GGDP",
-    "type": "property",
-    "leftLabel": "BASICS GGDP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X3",
-    "module": "BASICS",
-    "command": "GGDP",
-    "type": "property",
-    "leftLabel": "BASICS GGDP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y3",
-    "module": "BASICS",
-    "command": "GGDP",
-    "type": "property",
-    "leftLabel": "BASICS GGDP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X4",
-    "module": "BASICS",
-    "command": "GGDP",
-    "type": "property",
-    "leftLabel": "BASICS GGDP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y4",
-    "module": "BASICS",
-    "command": "GGDP",
-    "type": "property",
-    "leftLabel": "BASICS GGDP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X5",
-    "module": "BASICS",
-    "command": "GGDP",
-    "type": "property",
-    "leftLabel": "BASICS GGDP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y5",
-    "module": "BASICS",
-    "command": "GGDP",
-    "type": "property",
-    "leftLabel": "BASICS GGDP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X6",
-    "module": "BASICS",
-    "command": "GGDP",
-    "type": "property",
-    "leftLabel": "BASICS GGDP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y6",
-    "module": "BASICS",
-    "command": "GGDP",
-    "type": "property",
-    "leftLabel": "BASICS GGDP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X7",
-    "module": "BASICS",
-    "command": "GGDP",
-    "type": "property",
-    "leftLabel": "BASICS GGDP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y7",
-    "module": "BASICS",
-    "command": "GGDP",
-    "type": "property",
-    "leftLabel": "BASICS GGDP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X8",
-    "module": "BASICS",
-    "command": "GGDP",
-    "type": "property",
-    "leftLabel": "BASICS GGDP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y8",
-    "module": "BASICS",
-    "command": "GGDP",
-    "type": "property",
-    "leftLabel": "BASICS GGDP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X9",
-    "module": "BASICS",
-    "command": "GGDP",
-    "type": "property",
-    "leftLabel": "BASICS GGDP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y9",
-    "module": "BASICS",
-    "command": "GGDP",
-    "type": "property",
-    "leftLabel": "BASICS GGDP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X10",
-    "module": "BASICS",
-    "command": "GGDP",
-    "type": "property",
-    "leftLabel": "BASICS GGDP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y10",
-    "module": "BASICS",
-    "command": "GGDP",
-    "type": "property",
-    "leftLabel": "BASICS GGDP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X11",
-    "module": "BASICS",
-    "command": "GGDP",
-    "type": "property",
-    "leftLabel": "BASICS GGDP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y11",
-    "module": "BASICS",
-    "command": "GGDP",
-    "type": "property",
-    "leftLabel": "BASICS GGDP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X12",
-    "module": "BASICS",
-    "command": "GGDP",
-    "type": "property",
-    "leftLabel": "BASICS GGDP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y12",
-    "module": "BASICS",
-    "command": "GGDP",
-    "type": "property",
-    "leftLabel": "BASICS GGDP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X13",
-    "module": "BASICS",
-    "command": "GGDP",
-    "type": "property",
-    "leftLabel": "BASICS GGDP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y13",
-    "module": "BASICS",
-    "command": "GGDP",
-    "type": "property",
-    "leftLabel": "BASICS GGDP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X14",
-    "module": "BASICS",
-    "command": "GGDP",
-    "type": "property",
-    "leftLabel": "BASICS GGDP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y14",
-    "module": "BASICS",
-    "command": "GGDP",
-    "type": "property",
-    "leftLabel": "BASICS GGDP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X15",
-    "module": "BASICS",
-    "command": "GGDP",
-    "type": "property",
-    "leftLabel": "BASICS GGDP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y15",
-    "module": "BASICS",
-    "command": "GGDP",
-    "type": "property",
-    "leftLabel": "BASICS GGDP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "GTXT",
-    "module": "BASICS",
-    "type": "keyword",
-    "leftLabel": "BASICS",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X",
-    "module": "BASICS",
-    "command": "GTXT",
-    "type": "property",
-    "leftLabel": "BASICS GTXT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y",
-    "module": "BASICS",
-    "command": "GTXT",
-    "type": "property",
-    "leftLabel": "BASICS GTXT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "TEXT",
-    "module": "BASICS",
-    "command": "GTXT",
-    "type": "property",
-    "leftLabel": "BASICS GTXT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "VAL",
-    "module": "BASICS",
-    "command": "GTXT",
-    "type": "property",
-    "leftLabel": "BASICS GTXT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "DIM",
-    "module": "BASICS",
-    "command": "GTXT",
-    "type": "property",
-    "leftLabel": "BASICS GTXT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "ND",
-    "module": "BASICS",
-    "command": "GTXT",
-    "type": "property",
-    "leftLabel": "BASICS GTXT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "GSCA",
-    "module": "BASICS",
-    "type": "keyword",
-    "leftLabel": "BASICS",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X1",
-    "module": "BASICS",
-    "command": "GSCA",
-    "type": "property",
-    "leftLabel": "BASICS GSCA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y1",
-    "module": "BASICS",
-    "command": "GSCA",
-    "type": "property",
-    "leftLabel": "BASICS GSCA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X2",
-    "module": "BASICS",
-    "command": "GSCA",
-    "type": "property",
-    "leftLabel": "BASICS GSCA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y2",
-    "module": "BASICS",
-    "command": "GSCA",
-    "type": "property",
-    "leftLabel": "BASICS GSCA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "TEXT",
-    "module": "BASICS",
-    "command": "GSCA",
-    "type": "property",
-    "leftLabel": "BASICS GSCA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "VAL",
-    "module": "BASICS",
-    "command": "GSCA",
-    "type": "property",
-    "leftLabel": "BASICS GSCA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "NIM",
-    "module": "BASICS",
-    "command": "GSCA",
-    "type": "property",
-    "leftLabel": "BASICS GSCA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "ND",
-    "module": "BASICS",
-    "command": "GSCA",
-    "type": "property",
-    "leftLabel": "BASICS GSCA",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "GCOL",
-    "module": "BASICS",
-    "type": "keyword",
-    "leftLabel": "BASICS",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "COL",
-    "module": "BASICS",
-    "command": "GCOL",
-    "type": "property",
-    "leftLabel": "BASICS GCOL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "R",
-    "module": "BASICS",
-    "command": "GCOL",
-    "type": "property",
-    "leftLabel": "BASICS GCOL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "G",
-    "module": "BASICS",
-    "command": "GCOL",
-    "type": "property",
-    "leftLabel": "BASICS GCOL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "B",
-    "module": "BASICS",
-    "command": "GCOL",
-    "type": "property",
-    "leftLabel": "BASICS GCOL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "GPLI",
-    "module": "BASICS",
-    "type": "keyword",
-    "leftLabel": "BASICS",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "IND",
-    "module": "BASICS",
-    "command": "GPLI",
-    "type": "property",
-    "leftLabel": "BASICS GPLI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "COL",
-    "module": "BASICS",
-    "command": "GPLI",
-    "type": "property",
-    "leftLabel": "BASICS GPLI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "TYPE",
-    "module": "BASICS",
-    "command": "GPLI",
-    "type": "property",
-    "leftLabel": "BASICS GPLI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "WIDT",
-    "module": "BASICS",
-    "command": "GPLI",
-    "type": "property",
-    "leftLabel": "BASICS GPLI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "SCAT",
-    "module": "BASICS",
-    "command": "GPLI",
-    "type": "property",
-    "leftLabel": "BASICS GPLI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "GPMI",
-    "module": "BASICS",
-    "type": "keyword",
-    "leftLabel": "BASICS",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "IND",
-    "module": "BASICS",
-    "command": "GPMI",
-    "type": "property",
-    "leftLabel": "BASICS GPMI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "COL",
-    "module": "BASICS",
-    "command": "GPMI",
-    "type": "property",
-    "leftLabel": "BASICS GPMI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "TYPE",
-    "module": "BASICS",
-    "command": "GPMI",
-    "type": "property",
-    "leftLabel": "BASICS GPMI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "SIZE",
-    "module": "BASICS",
-    "command": "GPMI",
-    "type": "property",
-    "leftLabel": "BASICS GPMI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "GTXI",
-    "module": "BASICS",
-    "type": "keyword",
-    "leftLabel": "BASICS",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "IND",
-    "module": "BASICS",
-    "command": "GTXI",
-    "type": "property",
-    "leftLabel": "BASICS GTXI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "COL",
-    "module": "BASICS",
-    "command": "GTXI",
-    "type": "property",
-    "leftLabel": "BASICS GTXI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "H",
-    "module": "BASICS",
-    "command": "GTXI",
-    "type": "property",
-    "leftLabel": "BASICS GTXI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "BX",
-    "module": "BASICS",
-    "command": "GTXI",
-    "type": "property",
-    "leftLabel": "BASICS GTXI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "BY",
-    "module": "BASICS",
-    "command": "GTXI",
-    "type": "property",
-    "leftLabel": "BASICS GTXI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "HALI",
-    "module": "BASICS",
-    "command": "GTXI",
-    "type": "property",
-    "leftLabel": "BASICS GTXI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "VALI",
-    "module": "BASICS",
-    "command": "GTXI",
-    "type": "property",
-    "leftLabel": "BASICS GTXI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "PATH",
-    "module": "BASICS",
-    "command": "GTXI",
-    "type": "property",
-    "leftLabel": "BASICS GTXI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "EXPA",
-    "module": "BASICS",
-    "command": "GTXI",
-    "type": "property",
-    "leftLabel": "BASICS GTXI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "SPAC",
-    "module": "BASICS",
-    "command": "GTXI",
-    "type": "property",
-    "leftLabel": "BASICS GTXI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "FONT",
-    "module": "BASICS",
-    "command": "GTXI",
-    "type": "property",
-    "leftLabel": "BASICS GTXI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "GFAI",
-    "module": "BASICS",
-    "type": "keyword",
-    "leftLabel": "BASICS",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "IND",
-    "module": "BASICS",
-    "command": "GFAI",
-    "type": "property",
-    "leftLabel": "BASICS GFAI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "COL",
-    "module": "BASICS",
-    "command": "GFAI",
-    "type": "property",
-    "leftLabel": "BASICS GFAI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "STYL",
-    "module": "BASICS",
-    "command": "GFAI",
-    "type": "property",
-    "leftLabel": "BASICS GFAI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "TYPE",
-    "module": "BASICS",
-    "command": "GFAI",
-    "type": "property",
-    "leftLabel": "BASICS GFAI",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "@CDB",
-    "module": "BASICS",
-    "type": "keyword",
-    "leftLabel": "BASICS",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "@KEY",
-    "module": "BASICS",
-    "type": "keyword",
-    "leftLabel": "BASICS",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "KWH",
-    "module": "BASICS",
-    "command": "@KEY",
-    "type": "property",
-    "leftLabel": "BASICS @KEY",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "KWL",
-    "module": "BASICS",
-    "command": "@KEY",
-    "type": "property",
-    "leftLabel": "BASICS @KEY",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "SEL1",
-    "module": "BASICS",
-    "command": "@KEY",
-    "type": "property",
-    "leftLabel": "BASICS @KEY",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "SEL2",
-    "module": "BASICS",
-    "command": "@KEY",
-    "type": "property",
-    "leftLabel": "BASICS @KEY",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "SEL3",
-    "module": "BASICS",
-    "command": "@KEY",
-    "type": "property",
-    "leftLabel": "BASICS @KEY",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "SEL4",
-    "module": "BASICS",
-    "command": "@KEY",
-    "type": "property",
-    "leftLabel": "BASICS @KEY",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "SEL5",
-    "module": "BASICS",
-    "command": "@KEY",
-    "type": "property",
-    "leftLabel": "BASICS @KEY",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "SEL6",
-    "module": "BASICS",
-    "command": "@KEY",
-    "type": "property",
-    "leftLabel": "BASICS @KEY",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "IERR",
-    "module": "BASICS",
-    "command": "@KEY",
-    "type": "property",
-    "leftLabel": "BASICS @KEY",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "DECREATOR",
-    "type": "class",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "DSLN",
-    "module": "DECREATOR",
-    "type": "keyword",
-    "leftLabel": "DECREATOR",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "NO",
-    "module": "DECREATOR",
-    "command": "DSLN",
-    "type": "property",
-    "leftLabel": "DECREATOR DSLN",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "NCS",
-    "module": "DECREATOR",
-    "command": "DSLN",
-    "type": "property",
-    "leftLabel": "DECREATOR DSLN",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "NCS2",
-    "module": "DECREATOR",
-    "command": "DSLN",
-    "type": "property",
-    "leftLabel": "DECREATOR DSLN",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "HDIV",
-    "module": "DECREATOR",
-    "command": "DSLN",
-    "type": "property",
-    "leftLabel": "DECREATOR DSLN",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "FREF",
-    "module": "DECREATOR",
-    "command": "DSLN",
-    "type": "property",
-    "leftLabel": "DECREATOR DSLN",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "GRP",
-    "module": "DECREATOR",
-    "command": "DSLN",
-    "type": "property",
-    "leftLabel": "DECREATOR DSLN",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "TITL",
-    "module": "DECREATOR",
-    "command": "DSLN",
-    "type": "property",
-    "leftLabel": "DECREATOR DSLN",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "DGEO",
-    "module": "DECREATOR",
-    "type": "keyword",
-    "leftLabel": "DECREATOR",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "OPT",
-    "module": "DECREATOR",
-    "command": "DGEO",
-    "type": "property",
-    "leftLabel": "DECREATOR DGEO",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "ID",
-    "module": "DECREATOR",
-    "command": "DGEO",
-    "type": "property",
-    "leftLabel": "DECREATOR DGEO",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X1",
-    "module": "DECREATOR",
-    "command": "DGEO",
-    "type": "property",
-    "leftLabel": "DECREATOR DGEO",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y1",
-    "module": "DECREATOR",
-    "command": "DGEO",
-    "type": "property",
-    "leftLabel": "DECREATOR DGEO",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Z1",
-    "module": "DECREATOR",
-    "command": "DGEO",
-    "type": "property",
-    "leftLabel": "DECREATOR DGEO",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "X2",
-    "module": "DECREATOR",
-    "command": "DGEO",
-    "type": "property",
-    "leftLabel": "DECREATOR DGEO",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Y2",
-    "module": "DECREATOR",
-    "command": "DGEO",
-    "type": "property",
-    "leftLabel": "DECREATOR DGEO",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Z2",
-    "module": "DECREATOR",
-    "command": "DGEO",
-    "type": "property",
-    "leftLabel": "DECREATOR DGEO",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "DRX",
-    "module": "DECREATOR",
-    "command": "DGEO",
-    "type": "property",
-    "leftLabel": "DECREATOR DGEO",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "DRY",
-    "module": "DECREATOR",
-    "command": "DGEO",
-    "type": "property",
-    "leftLabel": "DECREATOR DGEO",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "DRZ",
-    "module": "DECREATOR",
-    "command": "DGEO",
-    "type": "property",
-    "leftLabel": "DECREATOR DGEO",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "SA",
-    "module": "DECREATOR",
-    "command": "DGEO",
-    "type": "property",
-    "leftLabel": "DECREATOR DGEO",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "SE",
-    "module": "DECREATOR",
-    "command": "DGEO",
-    "type": "property",
-    "leftLabel": "DECREATOR DGEO",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "DSEL",
-    "module": "DECREATOR",
-    "type": "keyword",
-    "leftLabel": "DECREATOR",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "OPT",
-    "module": "DECREATOR",
-    "command": "DSEL",
-    "type": "property",
-    "leftLabel": "DECREATOR DSEL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "NO",
-    "module": "DECREATOR",
-    "command": "DSEL",
-    "type": "property",
-    "leftLabel": "DECREATOR DSEL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "YMIN",
-    "module": "DECREATOR",
-    "command": "DSEL",
-    "type": "property",
-    "leftLabel": "DECREATOR DSEL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "ZMIN",
-    "module": "DECREATOR",
-    "command": "DSEL",
-    "type": "property",
-    "leftLabel": "DECREATOR DSEL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "YMAX",
-    "module": "DECREATOR",
-    "command": "DSEL",
-    "type": "property",
-    "leftLabel": "DECREATOR DSEL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "ZMAX",
-    "module": "DECREATOR",
-    "command": "DSEL",
-    "type": "property",
-    "leftLabel": "DECREATOR DSEL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "DSLC",
-    "module": "DECREATOR",
-    "type": "keyword",
-    "leftLabel": "DECREATOR",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "REF",
-    "module": "DECREATOR",
-    "command": "DSLC",
-    "type": "property",
-    "leftLabel": "DECREATOR DSLC",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "S",
-    "module": "DECREATOR",
-    "command": "DSLC",
-    "type": "property",
-    "leftLabel": "DECREATOR DSLC",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "TYPM",
-    "module": "DECREATOR",
-    "command": "DSLC",
-    "type": "property",
-    "leftLabel": "DECREATOR DSLC",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "TYPT",
-    "module": "DECREATOR",
-    "command": "DSLC",
-    "type": "property",
-    "leftLabel": "DECREATOR DSLC",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "LC",
-    "module": "DECREATOR",
-    "type": "keyword",
-    "leftLabel": "DECREATOR",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "NO",
-    "module": "DECREATOR",
-    "command": "LC",
-    "type": "property",
-    "leftLabel": "DECREATOR LC",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "DDEL",
-    "module": "DECREATOR",
-    "type": "keyword",
-    "leftLabel": "DECREATOR",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "NO",
-    "module": "DECREATOR",
-    "command": "DDEL",
-    "type": "property",
-    "leftLabel": "DECREATOR DDEL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "CTRL",
-    "module": "DECREATOR",
-    "type": "keyword",
-    "leftLabel": "DECREATOR",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "GAUS",
-    "module": "DECREATOR",
-    "command": "CTRL",
-    "type": "property",
-    "leftLabel": "DECREATOR CTRL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "TEND",
-    "module": "DECREATOR",
-    "command": "CTRL",
-    "type": "property",
-    "leftLabel": "DECREATOR CTRL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "CINT",
-    "module": "DECREATOR",
-    "command": "CTRL",
-    "type": "property",
-    "leftLabel": "DECREATOR CTRL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "PLBCONVERTER",
-    "type": "class",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "OPT",
-    "module": "PLBCONVERTER",
-    "type": "keyword",
-    "leftLabel": "PLBCONVERTER",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "OVRT",
-    "module": "PLBCONVERTER",
-    "command": "OPT",
-    "type": "property",
-    "leftLabel": "PLBCONVERTER OPT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "TMPL",
-    "module": "PLBCONVERTER",
-    "command": "OPT",
-    "type": "property",
-    "leftLabel": "PLBCONVERTER OPT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "IMG",
-    "module": "PLBCONVERTER",
-    "command": "OPT",
-    "type": "property",
-    "leftLabel": "PLBCONVERTER OPT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "FMT",
-    "module": "PLBCONVERTER",
-    "command": "OPT",
-    "type": "property",
-    "leftLabel": "PLBCONVERTER OPT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "FNR",
-    "module": "PLBCONVERTER",
-    "command": "OPT",
-    "type": "property",
-    "leftLabel": "PLBCONVERTER OPT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "DOCX",
-    "module": "PLBCONVERTER",
-    "type": "keyword",
-    "leftLabel": "PLBCONVERTER",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "IN",
-    "module": "PLBCONVERTER",
-    "command": "DOCX",
-    "type": "property",
-    "leftLabel": "PLBCONVERTER DOCX",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "OUT",
-    "module": "PLBCONVERTER",
-    "command": "DOCX",
-    "type": "property",
-    "leftLabel": "PLBCONVERTER DOCX",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "TMPL",
-    "module": "PLBCONVERTER",
-    "command": "DOCX",
-    "type": "property",
-    "leftLabel": "PLBCONVERTER DOCX",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "OVRT",
-    "module": "PLBCONVERTER",
-    "command": "DOCX",
-    "type": "property",
-    "leftLabel": "PLBCONVERTER DOCX",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "IMG",
-    "module": "PLBCONVERTER",
-    "command": "DOCX",
-    "type": "property",
-    "leftLabel": "PLBCONVERTER DOCX",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "FMT",
-    "module": "PLBCONVERTER",
-    "command": "DOCX",
-    "type": "property",
-    "leftLabel": "PLBCONVERTER DOCX",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "FNR",
-    "module": "PLBCONVERTER",
-    "command": "DOCX",
-    "type": "property",
-    "leftLabel": "PLBCONVERTER DOCX",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "IMG",
-    "module": "PLBCONVERTER",
-    "type": "keyword",
-    "leftLabel": "PLBCONVERTER",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "IN",
-    "module": "PLBCONVERTER",
-    "command": "IMG",
-    "type": "property",
-    "leftLabel": "PLBCONVERTER IMG",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "FNR",
-    "module": "PLBCONVERTER",
-    "command": "IMG",
-    "type": "property",
-    "leftLabel": "PLBCONVERTER IMG",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "OVRT",
-    "module": "PLBCONVERTER",
-    "command": "IMG",
-    "type": "property",
-    "leftLabel": "PLBCONVERTER IMG",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "FMT",
-    "module": "PLBCONVERTER",
-    "command": "IMG",
-    "type": "property",
-    "leftLabel": "PLBCONVERTER IMG",
     "rightLabel": "SOFiSTiK"
   }
 ]
