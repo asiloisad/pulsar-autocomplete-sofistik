@@ -31151,6 +31151,14 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "LEV",
+    "module": "SOFILOAD",
+    "command": "COPY",
+    "type": "property",
+    "leftLabel": "SOFILOAD COPY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "DX",
     "module": "SOFILOAD",
     "command": "COPY",
@@ -31192,6 +31200,158 @@
   },
   {
     "text": "YEX",
+    "module": "SOFILOAD",
+    "command": "COPY",
+    "type": "property",
+    "leftLabel": "SOFILOAD COPY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "CASE",
+    "module": "SOFILOAD",
+    "command": "COPY",
+    "type": "property",
+    "leftLabel": "SOFILOAD COPY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NRE",
+    "module": "SOFILOAD",
+    "command": "COPY",
+    "type": "property",
+    "leftLabel": "SOFILOAD COPY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "XABS",
+    "module": "SOFILOAD",
+    "command": "COPY",
+    "type": "property",
+    "leftLabel": "SOFILOAD COPY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "XCON",
+    "module": "SOFILOAD",
+    "command": "COPY",
+    "type": "property",
+    "leftLabel": "SOFILOAD COPY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "XV1",
+    "module": "SOFILOAD",
+    "command": "COPY",
+    "type": "property",
+    "leftLabel": "SOFILOAD COPY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "XV2",
+    "module": "SOFILOAD",
+    "command": "COPY",
+    "type": "property",
+    "leftLabel": "SOFILOAD COPY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "XV3",
+    "module": "SOFILOAD",
+    "command": "COPY",
+    "type": "property",
+    "leftLabel": "SOFILOAD COPY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "XV4",
+    "module": "SOFILOAD",
+    "command": "COPY",
+    "type": "property",
+    "leftLabel": "SOFILOAD COPY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "XV5",
+    "module": "SOFILOAD",
+    "command": "COPY",
+    "type": "property",
+    "leftLabel": "SOFILOAD COPY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "XV6",
+    "module": "SOFILOAD",
+    "command": "COPY",
+    "type": "property",
+    "leftLabel": "SOFILOAD COPY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "XV7",
+    "module": "SOFILOAD",
+    "command": "COPY",
+    "type": "property",
+    "leftLabel": "SOFILOAD COPY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "XV8",
+    "module": "SOFILOAD",
+    "command": "COPY",
+    "type": "property",
+    "leftLabel": "SOFILOAD COPY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "XV9",
+    "module": "SOFILOAD",
+    "command": "COPY",
+    "type": "property",
+    "leftLabel": "SOFILOAD COPY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "XV10",
+    "module": "SOFILOAD",
+    "command": "COPY",
+    "type": "property",
+    "leftLabel": "SOFILOAD COPY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "XV11",
+    "module": "SOFILOAD",
+    "command": "COPY",
+    "type": "property",
+    "leftLabel": "SOFILOAD COPY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "XV12",
+    "module": "SOFILOAD",
+    "command": "COPY",
+    "type": "property",
+    "leftLabel": "SOFILOAD COPY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "XV13",
+    "module": "SOFILOAD",
+    "command": "COPY",
+    "type": "property",
+    "leftLabel": "SOFILOAD COPY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "XV14",
+    "module": "SOFILOAD",
+    "command": "COPY",
+    "type": "property",
+    "leftLabel": "SOFILOAD COPY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "XV15",
     "module": "SOFILOAD",
     "command": "COPY",
     "type": "property",
