@@ -44571,6 +44571,78 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "TREF",
+    "module": "TALPA",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "TALPA CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TCRL",
+    "module": "TALPA",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "TALPA CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "PTSZ",
+    "module": "TALPA",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "TALPA CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "REFZ",
+    "module": "TALPA",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "TALPA CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FCT",
+    "module": "TALPA",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "TALPA CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GFS",
+    "module": "TALPA",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "TALPA CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "MNO",
+    "module": "TALPA",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "TALPA CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "MTYP",
+    "module": "TALPA",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "TALPA CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "MSTP",
+    "module": "TALPA",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "TALPA CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "PHRS",
     "module": "TALPA",
     "type": "keyword",
@@ -44998,7 +45070,7 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "TYPWE",
+    "text": "TYPE",
     "module": "TALPA",
     "command": "LC",
     "type": "property",
@@ -45039,6 +45111,38 @@
   },
   {
     "text": "GAMA",
+    "module": "TALPA",
+    "command": "LC",
+    "type": "property",
+    "leftLabel": "TALPA LC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DT",
+    "module": "TALPA",
+    "command": "LC",
+    "type": "property",
+    "leftLabel": "TALPA LC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GFRI",
+    "module": "TALPA",
+    "command": "LC",
+    "type": "property",
+    "leftLabel": "TALPA LC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GCOH",
+    "module": "TALPA",
+    "command": "LC",
+    "type": "property",
+    "leftLabel": "TALPA LC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GAMU",
     "module": "TALPA",
     "command": "LC",
     "type": "property",
