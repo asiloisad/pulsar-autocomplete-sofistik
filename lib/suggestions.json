@@ -27915,6 +27915,14 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "SC",
+    "module": "RESULTS",
+    "command": "PICT",
+    "type": "property",
+    "leftLabel": "RESULTS PICT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "M",
     "module": "RESULTS",
     "command": "PICT",
@@ -28340,6 +28348,45 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "FLT",
+    "module": "RESULTS",
+    "type": "keyword",
+    "leftLabel": "RESULTS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ID1",
+    "module": "RESULTS",
+    "command": "FLT",
+    "type": "property",
+    "leftLabel": "RESULTS FLT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NAME",
+    "module": "RESULTS",
+    "command": "FLT",
+    "type": "property",
+    "leftLabel": "RESULTS FLT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "RULE",
+    "module": "RESULTS",
+    "command": "FLT",
+    "type": "property",
+    "leftLabel": "RESULTS FLT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ACT",
+    "module": "RESULTS",
+    "command": "FLT",
+    "type": "property",
+    "leftLabel": "RESULTS FLT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "JOIN",
     "module": "RESULTS",
     "type": "keyword",
@@ -28443,6 +28490,30 @@
   },
   {
     "text": "RESU",
+    "module": "RESULTS",
+    "command": "XLSX",
+    "type": "property",
+    "leftLabel": "RESULTS XLSX",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TYPE",
+    "module": "RESULTS",
+    "command": "XLSX",
+    "type": "property",
+    "leftLabel": "RESULTS XLSX",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DELI",
+    "module": "RESULTS",
+    "command": "XLSX",
+    "type": "property",
+    "leftLabel": "RESULTS XLSX",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DEC",
     "module": "RESULTS",
     "command": "XLSX",
     "type": "property",
@@ -28735,6 +28806,14 @@
   },
   {
     "text": "OVLP",
+    "module": "RESULTS",
+    "command": "TXTP",
+    "type": "property",
+    "leftLabel": "RESULTS TXTP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "EXTR",
     "module": "RESULTS",
     "command": "TXTP",
     "type": "property",
@@ -29312,6 +29391,29 @@
     "command": "BRIC",
     "type": "property",
     "leftLabel": "RESULTS BRIC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "RSET",
+    "module": "RESULTS",
+    "type": "keyword",
+    "leftLabel": "RESULTS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ID1",
+    "module": "RESULTS",
+    "command": "RSET",
+    "type": "property",
+    "leftLabel": "RESULTS RSET",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "REPR",
+    "module": "RESULTS",
+    "command": "RSET",
+    "type": "property",
+    "leftLabel": "RESULTS RSET",
     "rightLabel": "SOFiSTiK"
   },
   {
