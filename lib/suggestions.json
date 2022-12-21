@@ -4390,6 +4390,22 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "LC",
+    "module": "ASE",
+    "command": "MASS",
+    "type": "property",
+    "leftLabel": "ASE MASS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "PRZ",
+    "module": "ASE",
+    "command": "MASS",
+    "type": "property",
+    "leftLabel": "ASE MASS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "SELE",
     "module": "ASE",
     "command": "MASS",
@@ -41996,7 +42012,15 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "NCS",
+    "text": "STYP",
+    "module": "SOFIMSHC",
+    "command": "SLN",
+    "type": "property",
+    "leftLabel": "SOFIMSHC SLN",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SNO",
     "module": "SOFIMSHC",
     "command": "SLN",
     "type": "property",
@@ -42084,7 +42108,7 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "E",
+    "text": "EYE",
     "module": "SOFIMSHC",
     "command": "SLN",
     "type": "property",
