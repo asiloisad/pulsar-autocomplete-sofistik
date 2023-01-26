@@ -27559,6 +27559,14 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "CSAV",
+    "module": "MAXIMA",
+    "command": "TRAC",
+    "type": "property",
+    "leftLabel": "MAXIMA TRAC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "PLBCONVERTER",
     "type": "class",
     "rightLabel": "SOFiSTiK"
@@ -45984,6 +45992,14 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "LP",
+    "module": "TENDON",
+    "command": "SYSP",
+    "type": "property",
+    "leftLabel": "TENDON SYSP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "CTRL",
     "module": "TENDON",
     "type": "keyword",
@@ -47663,6 +47679,11 @@
     "command": "ECHO",
     "type": "property",
     "leftLabel": "TEXTILE ECHO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Sheet1",
+    "type": "class",
     "rightLabel": "SOFiSTiK"
   },
   {
