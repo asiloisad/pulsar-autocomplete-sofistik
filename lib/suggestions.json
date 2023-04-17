@@ -45756,6 +45756,29 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "ECHO",
+    "module": "TEMPLATE",
+    "type": "keyword",
+    "leftLabel": "TEMPLATE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "OPT",
+    "module": "TEMPLATE",
+    "command": "ECHO",
+    "type": "property",
+    "leftLabel": "TEMPLATE ECHO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VAL",
+    "module": "TEMPLATE",
+    "command": "ECHO",
+    "type": "property",
+    "leftLabel": "TEMPLATE ECHO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "TENDON",
     "type": "class",
     "rightLabel": "SOFiSTiK"
@@ -45992,7 +46015,7 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "LP",
+    "text": "SP",
     "module": "TENDON",
     "command": "SYSP",
     "type": "property",
@@ -46187,6 +46210,22 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "XREF",
+    "module": "TENDON",
+    "command": "TGEO",
+    "type": "property",
+    "leftLabel": "TENDON TGEO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ELEM",
+    "module": "TENDON",
+    "command": "TGEO",
+    "type": "property",
+    "leftLabel": "TENDON TGEO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "POSI",
     "module": "TENDON",
     "command": "TGEO",
@@ -46204,6 +46243,14 @@
   },
   {
     "text": "TITL",
+    "module": "TENDON",
+    "command": "TGEO",
+    "type": "property",
+    "leftLabel": "TENDON TGEO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GUID",
     "module": "TENDON",
     "command": "TGEO",
     "type": "property",
@@ -47679,11 +47726,6 @@
     "command": "ECHO",
     "type": "property",
     "leftLabel": "TEXTILE ECHO",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "Sheet1",
-    "type": "class",
     "rightLabel": "SOFiSTiK"
   },
   {
