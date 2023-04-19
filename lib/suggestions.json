@@ -23735,6 +23735,14 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "TYPE",
+    "module": "ELLA",
+    "command": "LC",
+    "type": "property",
+    "leftLabel": "ELLA LC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "PSI0",
     "module": "ELLA",
     "command": "LC",
