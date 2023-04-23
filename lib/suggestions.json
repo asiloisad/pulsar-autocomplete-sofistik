@@ -60,7 +60,7 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "GAMF",
+    "text": "G",
     "module": "AQB",
     "command": "NORM",
     "type": "property",
@@ -117,6 +117,14 @@
   },
   {
     "text": "LANG",
+    "module": "AQB",
+    "command": "NORM",
+    "type": "property",
+    "leftLabel": "AQB NORM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GAMF",
     "module": "AQB",
     "command": "NORM",
     "type": "property",
@@ -225,7 +233,7 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "STEP",
+    "text": "INC",
     "module": "AQB",
     "command": "BEAM",
     "type": "property",
@@ -594,6 +602,14 @@
   },
   {
     "text": "CS31",
+    "module": "AQB",
+    "command": "BEAM",
+    "type": "property",
+    "leftLabel": "AQB BEAM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "STEP",
     "module": "AQB",
     "command": "BEAM",
     "type": "property",
@@ -1785,7 +1801,7 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "SC",
+    "text": "SCL",
     "module": "AQB",
     "command": "DESI",
     "type": "property",
@@ -2378,6 +2394,14 @@
   },
   {
     "text": "CHAM",
+    "module": "ASE",
+    "command": "SYST",
+    "type": "property",
+    "leftLabel": "ASE SYST",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "POST",
     "module": "ASE",
     "command": "SYST",
     "type": "property",
@@ -3126,6 +3150,101 @@
     "command": "GRP2",
     "type": "property",
     "leftLabel": "ASE GRP2",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Q8X8",
+    "module": "ASE",
+    "type": "keyword",
+    "leftLabel": "ASE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ROW",
+    "module": "ASE",
+    "command": "Q8X8",
+    "type": "property",
+    "leftLabel": "ASE Q8X8",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "MXX",
+    "module": "ASE",
+    "command": "Q8X8",
+    "type": "property",
+    "leftLabel": "ASE Q8X8",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "MYY",
+    "module": "ASE",
+    "command": "Q8X8",
+    "type": "property",
+    "leftLabel": "ASE Q8X8",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "MXY",
+    "module": "ASE",
+    "command": "Q8X8",
+    "type": "property",
+    "leftLabel": "ASE Q8X8",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "QX",
+    "module": "ASE",
+    "command": "Q8X8",
+    "type": "property",
+    "leftLabel": "ASE Q8X8",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "QY",
+    "module": "ASE",
+    "command": "Q8X8",
+    "type": "property",
+    "leftLabel": "ASE Q8X8",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NXX",
+    "module": "ASE",
+    "command": "Q8X8",
+    "type": "property",
+    "leftLabel": "ASE Q8X8",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NYY",
+    "module": "ASE",
+    "command": "Q8X8",
+    "type": "property",
+    "leftLabel": "ASE Q8X8",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NXY",
+    "module": "ASE",
+    "command": "Q8X8",
+    "type": "property",
+    "leftLabel": "ASE Q8X8",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FROM",
+    "module": "ASE",
+    "command": "Q8X8",
+    "type": "property",
+    "leftLabel": "ASE Q8X8",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TO",
+    "module": "ASE",
+    "command": "Q8X8",
+    "type": "property",
+    "leftLabel": "ASE Q8X8",
     "rightLabel": "SOFiSTiK"
   },
   {
@@ -4780,6 +4899,14 @@
   },
   {
     "text": "TANB",
+    "module": "ASE",
+    "command": "DESI",
+    "type": "property",
+    "leftLabel": "ASE DESI",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SCL",
     "module": "ASE",
     "command": "DESI",
     "type": "property",
@@ -17125,6 +17252,244 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "CSA",
+    "type": "class",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TASK",
+    "module": "CSA",
+    "type": "keyword",
+    "leftLabel": "CSA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TYPE",
+    "module": "CSA",
+    "command": "TASK",
+    "type": "property",
+    "leftLabel": "CSA TASK",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NCS",
+    "module": "CSA",
+    "command": "TASK",
+    "type": "property",
+    "leftLabel": "CSA TASK",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "CS",
+    "module": "CSA",
+    "command": "TASK",
+    "type": "property",
+    "leftLabel": "CSA TASK",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "MCRL",
+    "module": "CSA",
+    "type": "keyword",
+    "leftLabel": "CSA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "STAT",
+    "module": "CSA",
+    "command": "MCRL",
+    "type": "property",
+    "leftLabel": "CSA MCRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LSCY",
+    "module": "CSA",
+    "command": "MCRL",
+    "type": "property",
+    "leftLabel": "CSA MCRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LSCU",
+    "module": "CSA",
+    "command": "MCRL",
+    "type": "property",
+    "leftLabel": "CSA MCRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LSRY",
+    "module": "CSA",
+    "command": "MCRL",
+    "type": "property",
+    "leftLabel": "CSA MCRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LSRU",
+    "module": "CSA",
+    "command": "MCRL",
+    "type": "property",
+    "leftLabel": "CSA MCRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SCMC",
+    "module": "CSA",
+    "command": "MCRL",
+    "type": "property",
+    "leftLabel": "CSA MCRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SCMR",
+    "module": "CSA",
+    "command": "MCRL",
+    "type": "property",
+    "leftLabel": "CSA MCRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "PHNG",
+    "module": "CSA",
+    "type": "keyword",
+    "leftLabel": "CSA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TYPE",
+    "module": "CSA",
+    "command": "PHNG",
+    "type": "property",
+    "leftLabel": "CSA PHNG",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LENG",
+    "module": "CSA",
+    "command": "PHNG",
+    "type": "property",
+    "leftLabel": "CSA PHNG",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ALPH",
+    "module": "CSA",
+    "command": "PHNG",
+    "type": "property",
+    "leftLabel": "CSA PHNG",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "CPHN",
+    "module": "CSA",
+    "type": "keyword",
+    "leftLabel": "CSA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "P",
+    "module": "CSA",
+    "command": "CPHN",
+    "type": "property",
+    "leftLabel": "CSA CPHN",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ALPH",
+    "module": "CSA",
+    "command": "CPHN",
+    "type": "property",
+    "leftLabel": "CSA CPHN",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "EXPO",
+    "module": "CSA",
+    "type": "keyword",
+    "leftLabel": "CSA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "OPT",
+    "module": "CSA",
+    "command": "EXPO",
+    "type": "property",
+    "leftLabel": "CSA EXPO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NO",
+    "module": "CSA",
+    "command": "EXPO",
+    "type": "property",
+    "leftLabel": "CSA EXPO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "MTYP",
+    "module": "CSA",
+    "command": "EXPO",
+    "type": "property",
+    "leftLabel": "CSA EXPO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TITL",
+    "module": "CSA",
+    "command": "EXPO",
+    "type": "property",
+    "leftLabel": "CSA EXPO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "PLOT",
+    "module": "CSA",
+    "type": "keyword",
+    "leftLabel": "CSA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TYPE",
+    "module": "CSA",
+    "command": "PLOT",
+    "type": "property",
+    "leftLabel": "CSA PLOT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VAL",
+    "module": "CSA",
+    "command": "PLOT",
+    "type": "property",
+    "leftLabel": "CSA PLOT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ECHO",
+    "module": "CSA",
+    "type": "keyword",
+    "leftLabel": "CSA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "OPT",
+    "module": "CSA",
+    "command": "ECHO",
+    "type": "property",
+    "leftLabel": "CSA ECHO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VAL",
+    "module": "CSA",
+    "command": "ECHO",
+    "type": "property",
+    "leftLabel": "CSA ECHO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "CSM",
     "type": "class",
     "rightLabel": "SOFiSTiK"
@@ -17832,6 +18197,14 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "DEPS",
+    "module": "CSM",
+    "command": "DEPS",
+    "type": "property",
+    "leftLabel": "CSM DEPS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "RH",
     "module": "CSM",
     "command": "DEPS",
@@ -18282,6 +18655,37 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "GAMT",
+    "module": "CSM",
+    "type": "keyword",
+    "leftLabel": "CSM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TYPE",
+    "module": "CSM",
+    "command": "GAMT",
+    "type": "property",
+    "leftLabel": "CSM GAMT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GAMU",
+    "module": "CSM",
+    "command": "GAMT",
+    "type": "property",
+    "leftLabel": "CSM GAMT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GAMF",
+    "module": "CSM",
+    "command": "GAMT",
+    "type": "property",
+    "leftLabel": "CSM GAMT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "LCCS",
     "module": "CSM",
     "type": "keyword",
@@ -18368,6 +18772,22 @@
   },
   {
     "text": "LCC",
+    "module": "CSM",
+    "command": "COPY",
+    "type": "property",
+    "leftLabel": "CSM COPY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "BASE",
+    "module": "CSM",
+    "command": "COPY",
+    "type": "property",
+    "leftLabel": "CSM COPY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "CDB",
     "module": "CSM",
     "command": "COPY",
     "type": "property",
@@ -18687,6 +19107,14 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "USE",
+    "module": "CSM",
+    "command": "EQLC",
+    "type": "property",
+    "leftLabel": "CSM EQLC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "EQUU",
     "module": "CSM",
     "type": "keyword",
@@ -18996,6 +19424,14 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "LC",
+    "module": "CSM",
+    "command": "EQBE",
+    "type": "property",
+    "leftLabel": "CSM EQBE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "EQIT",
     "module": "CSM",
     "type": "keyword",
@@ -19012,6 +19448,14 @@
   },
   {
     "text": "FMAX",
+    "module": "CSM",
+    "command": "EQIT",
+    "type": "property",
+    "leftLabel": "CSM EQIT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "COPY",
     "module": "CSM",
     "command": "EQIT",
     "type": "property",
@@ -19129,6 +19573,14 @@
   },
   {
     "text": "EX_Y",
+    "module": "CSM",
+    "command": "MEX",
+    "type": "property",
+    "leftLabel": "CSM MEX",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "EX_R",
     "module": "CSM",
     "command": "MEX",
     "type": "property",
@@ -19857,6 +20309,14 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "TYPE",
+    "module": "DECREATOR",
+    "command": "DSLN",
+    "type": "property",
+    "leftLabel": "DECREATOR DSLN",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "TITL",
     "module": "DECREATOR",
     "command": "DSLN",
@@ -20085,6 +20545,21 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "GRP",
+    "module": "DECREATOR",
+    "type": "keyword",
+    "leftLabel": "DECREATOR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NO",
+    "module": "DECREATOR",
+    "command": "GRP",
+    "type": "property",
+    "leftLabel": "DECREATOR GRP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "DDEL",
     "module": "DECREATOR",
     "type": "keyword",
@@ -20128,6 +20603,37 @@
     "command": "CTRL",
     "type": "property",
     "leftLabel": "DECREATOR CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "WARP",
+    "module": "DECREATOR",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "DECREATOR CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ECHO",
+    "module": "DECREATOR",
+    "type": "keyword",
+    "leftLabel": "DECREATOR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "OPT",
+    "module": "DECREATOR",
+    "command": "ECHO",
+    "type": "property",
+    "leftLabel": "DECREATOR ECHO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VAL",
+    "module": "DECREATOR",
+    "command": "ECHO",
+    "type": "property",
+    "leftLabel": "DECREATOR ECHO",
     "rightLabel": "SOFiSTiK"
   },
   {
@@ -23570,6 +24076,22 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "C8",
+    "module": "ELLA",
+    "command": "SIZE",
+    "type": "property",
+    "leftLabel": "ELLA SIZE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "C9",
+    "module": "ELLA",
+    "command": "SIZE",
+    "type": "property",
+    "leftLabel": "ELLA SIZE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "SHOW",
     "module": "ELLA",
     "type": "keyword",
@@ -24133,14 +24655,6 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "Y2",
-    "module": "ELLA",
-    "command": "TRPL",
-    "type": "property",
-    "leftLabel": "ELLA TRPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
     "text": "HW",
     "module": "ELLA",
     "command": "TRPL",
@@ -24173,7 +24687,119 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "NW",
+    "module": "ELLA",
+    "command": "TRPL",
+    "type": "property",
+    "leftLabel": "ELLA TRPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "B",
+    "module": "ELLA",
+    "command": "TRPL",
+    "type": "property",
+    "leftLabel": "ELLA TRPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "BW",
+    "module": "ELLA",
+    "command": "TRPL",
+    "type": "property",
+    "leftLabel": "ELLA TRPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LW",
+    "module": "ELLA",
+    "command": "TRPL",
+    "type": "property",
+    "leftLabel": "ELLA TRPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SNO",
+    "module": "ELLA",
+    "command": "TRPL",
+    "type": "property",
+    "leftLabel": "ELLA TRPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FRB",
+    "module": "ELLA",
+    "command": "TRPL",
+    "type": "property",
+    "leftLabel": "ELLA TRPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DAB",
+    "module": "ELLA",
+    "command": "TRPL",
+    "type": "property",
+    "leftLabel": "ELLA TRPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "BOGI",
+    "module": "ELLA",
+    "command": "TRPL",
+    "type": "property",
+    "leftLabel": "ELLA TRPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FRBO",
+    "module": "ELLA",
+    "command": "TRPL",
+    "type": "property",
+    "leftLabel": "ELLA TRPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DABO",
+    "module": "ELLA",
+    "command": "TRPL",
+    "type": "property",
+    "leftLabel": "ELLA TRPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "WHEE",
+    "module": "ELLA",
+    "command": "TRPL",
+    "type": "property",
+    "leftLabel": "ELLA TRPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FRWH",
+    "module": "ELLA",
+    "command": "TRPL",
+    "type": "property",
+    "leftLabel": "ELLA TRPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DAWH",
+    "module": "ELLA",
+    "command": "TRPL",
+    "type": "property",
+    "leftLabel": "ELLA TRPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "CONT",
+    "module": "ELLA",
+    "command": "TRPL",
+    "type": "property",
+    "leftLabel": "ELLA TRPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y2",
     "module": "ELLA",
     "command": "TRPL",
     "type": "property",
@@ -24276,14 +24902,6 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "Y2",
-    "module": "ELLA",
-    "command": "TRBL",
-    "type": "property",
-    "leftLabel": "ELLA TRBL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
     "text": "HW",
     "module": "ELLA",
     "command": "TRBL",
@@ -24309,6 +24927,14 @@
   },
   {
     "text": "PHI",
+    "module": "ELLA",
+    "command": "TRBL",
+    "type": "property",
+    "leftLabel": "ELLA TRBL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NW",
     "module": "ELLA",
     "command": "TRBL",
     "type": "property",
@@ -24405,6 +25031,14 @@
   },
   {
     "text": "DAWH",
+    "module": "ELLA",
+    "command": "TRBL",
+    "type": "property",
+    "leftLabel": "ELLA TRBL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y2",
     "module": "ELLA",
     "command": "TRBL",
     "type": "property",
@@ -27726,6 +28360,937 @@
     "command": "IMG",
     "type": "property",
     "leftLabel": "PLBCONVERTER IMG",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "RELY",
+    "type": "class",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "CTRL",
+    "module": "RELY",
+    "type": "keyword",
+    "leftLabel": "RELY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TRAN",
+    "module": "RELY",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "RELY CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SEED",
+    "module": "RELY",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "RELY CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SVAL",
+    "module": "RELY",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "RELY CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "CDBP",
+    "module": "RELY",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "RELY CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "CLSE",
+    "module": "RELY",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "RELY CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ENTR",
+    "module": "RELY",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "RELY CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "OUTP",
+    "module": "RELY",
+    "type": "keyword",
+    "leftLabel": "RELY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NPRI",
+    "module": "RELY",
+    "command": "OUTP",
+    "type": "property",
+    "leftLabel": "RELY OUTP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "IMON",
+    "module": "RELY",
+    "command": "OUTP",
+    "type": "property",
+    "leftLabel": "RELY OUTP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LSFR",
+    "module": "RELY",
+    "command": "OUTP",
+    "type": "property",
+    "leftLabel": "RELY OUTP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "PRUV",
+    "module": "RELY",
+    "command": "OUTP",
+    "type": "property",
+    "leftLabel": "RELY OUTP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "PRXV",
+    "module": "RELY",
+    "command": "OUTP",
+    "type": "property",
+    "leftLabel": "RELY OUTP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VAR",
+    "module": "RELY",
+    "type": "keyword",
+    "leftLabel": "RELY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TYPE",
+    "module": "RELY",
+    "command": "VAR",
+    "type": "property",
+    "leftLabel": "RELY VAR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TID",
+    "module": "RELY",
+    "command": "VAR",
+    "type": "property",
+    "leftLabel": "RELY VAR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "PTYP",
+    "module": "RELY",
+    "command": "VAR",
+    "type": "property",
+    "leftLabel": "RELY VAR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "P1",
+    "module": "RELY",
+    "command": "VAR",
+    "type": "property",
+    "leftLabel": "RELY VAR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "P2",
+    "module": "RELY",
+    "command": "VAR",
+    "type": "property",
+    "leftLabel": "RELY VAR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "P3",
+    "module": "RELY",
+    "command": "VAR",
+    "type": "property",
+    "leftLabel": "RELY VAR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "P4",
+    "module": "RELY",
+    "command": "VAR",
+    "type": "property",
+    "leftLabel": "RELY VAR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "V1",
+    "module": "RELY",
+    "command": "VAR",
+    "type": "property",
+    "leftLabel": "RELY VAR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "V2",
+    "module": "RELY",
+    "command": "VAR",
+    "type": "property",
+    "leftLabel": "RELY VAR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "V3",
+    "module": "RELY",
+    "command": "VAR",
+    "type": "property",
+    "leftLabel": "RELY VAR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "V4",
+    "module": "RELY",
+    "command": "VAR",
+    "type": "property",
+    "leftLabel": "RELY VAR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VAL",
+    "module": "RELY",
+    "command": "VAR",
+    "type": "property",
+    "leftLabel": "RELY VAR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "UMIN",
+    "module": "RELY",
+    "command": "VAR",
+    "type": "property",
+    "leftLabel": "RELY VAR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "UMAX",
+    "module": "RELY",
+    "command": "VAR",
+    "type": "property",
+    "leftLabel": "RELY VAR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "CHAV",
+    "module": "RELY",
+    "command": "VAR",
+    "type": "property",
+    "leftLabel": "RELY VAR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TXT",
+    "module": "RELY",
+    "command": "VAR",
+    "type": "property",
+    "leftLabel": "RELY VAR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "CORR",
+    "module": "RELY",
+    "type": "keyword",
+    "leftLabel": "RELY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VAR1",
+    "module": "RELY",
+    "command": "CORR",
+    "type": "property",
+    "leftLabel": "RELY CORR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VAR2",
+    "module": "RELY",
+    "command": "CORR",
+    "type": "property",
+    "leftLabel": "RELY CORR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "C",
+    "module": "RELY",
+    "command": "CORR",
+    "type": "property",
+    "leftLabel": "RELY CORR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "PROJ",
+    "module": "RELY",
+    "type": "keyword",
+    "leftLabel": "RELY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DAT",
+    "module": "RELY",
+    "command": "PROJ",
+    "type": "property",
+    "leftLabel": "RELY PROJ",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "CDB",
+    "module": "RELY",
+    "command": "PROJ",
+    "type": "property",
+    "leftLabel": "RELY PROJ",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FUNC",
+    "module": "RELY",
+    "type": "keyword",
+    "leftLabel": "RELY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NAME",
+    "module": "RELY",
+    "command": "FUNC",
+    "type": "property",
+    "leftLabel": "RELY FUNC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "EXPR",
+    "module": "RELY",
+    "command": "FUNC",
+    "type": "property",
+    "leftLabel": "RELY FUNC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SLSF",
+    "module": "RELY",
+    "type": "keyword",
+    "leftLabel": "RELY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VARN",
+    "module": "RELY",
+    "command": "SLSF",
+    "type": "property",
+    "leftLabel": "RELY SLSF",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "EXPR",
+    "module": "RELY",
+    "command": "SLSF",
+    "type": "property",
+    "leftLabel": "RELY SLSF",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "MC",
+    "module": "RELY",
+    "type": "keyword",
+    "leftLabel": "RELY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NSPL",
+    "module": "RELY",
+    "command": "MC",
+    "type": "property",
+    "leftLabel": "RELY MC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LSF",
+    "module": "RELY",
+    "command": "MC",
+    "type": "property",
+    "leftLabel": "RELY MC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SAVE",
+    "module": "RELY",
+    "command": "MC",
+    "type": "property",
+    "leftLabel": "RELY MC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SAPD",
+    "module": "RELY",
+    "command": "MC",
+    "type": "property",
+    "leftLabel": "RELY MC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FSAV",
+    "module": "RELY",
+    "command": "MC",
+    "type": "property",
+    "leftLabel": "RELY MC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FSAP",
+    "module": "RELY",
+    "command": "MC",
+    "type": "property",
+    "leftLabel": "RELY MC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SPLS",
+    "module": "RELY",
+    "command": "MC",
+    "type": "property",
+    "leftLabel": "RELY MC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SENS",
+    "module": "RELY",
+    "command": "MC",
+    "type": "property",
+    "leftLabel": "RELY MC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "REST",
+    "module": "RELY",
+    "command": "MC",
+    "type": "property",
+    "leftLabel": "RELY MC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "IS",
+    "module": "RELY",
+    "type": "keyword",
+    "leftLabel": "RELY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NSPL",
+    "module": "RELY",
+    "command": "IS",
+    "type": "property",
+    "leftLabel": "RELY IS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DSPT",
+    "module": "RELY",
+    "command": "IS",
+    "type": "property",
+    "leftLabel": "RELY IS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LSF",
+    "module": "RELY",
+    "command": "IS",
+    "type": "property",
+    "leftLabel": "RELY IS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LS",
+    "module": "RELY",
+    "type": "keyword",
+    "leftLabel": "RELY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NSPL",
+    "module": "RELY",
+    "command": "LS",
+    "type": "property",
+    "leftLabel": "RELY LS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SPNT",
+    "module": "RELY",
+    "command": "LS",
+    "type": "property",
+    "leftLabel": "RELY LS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LSF",
+    "module": "RELY",
+    "command": "LS",
+    "type": "property",
+    "leftLabel": "RELY LS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GSTP",
+    "module": "RELY",
+    "command": "LS",
+    "type": "property",
+    "leftLabel": "RELY LS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "EPSC",
+    "module": "RELY",
+    "command": "LS",
+    "type": "property",
+    "leftLabel": "RELY LS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DS",
+    "module": "RELY",
+    "type": "keyword",
+    "leftLabel": "RELY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NSPL",
+    "module": "RELY",
+    "command": "DS",
+    "type": "property",
+    "leftLabel": "RELY DS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LSF",
+    "module": "RELY",
+    "command": "DS",
+    "type": "property",
+    "leftLabel": "RELY DS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GSTP",
+    "module": "RELY",
+    "command": "DS",
+    "type": "property",
+    "leftLabel": "RELY DS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "EPSC",
+    "module": "RELY",
+    "command": "DS",
+    "type": "property",
+    "leftLabel": "RELY DS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ADS",
+    "module": "RELY",
+    "type": "keyword",
+    "leftLabel": "RELY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NSPL",
+    "module": "RELY",
+    "command": "ADS",
+    "type": "property",
+    "leftLabel": "RELY ADS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SPNT",
+    "module": "RELY",
+    "command": "ADS",
+    "type": "property",
+    "leftLabel": "RELY ADS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LSF",
+    "module": "RELY",
+    "command": "ADS",
+    "type": "property",
+    "leftLabel": "RELY ADS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FORM",
+    "module": "RELY",
+    "type": "keyword",
+    "leftLabel": "RELY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SPNT",
+    "module": "RELY",
+    "command": "FORM",
+    "type": "property",
+    "leftLabel": "RELY FORM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "OPTA",
+    "module": "RELY",
+    "command": "FORM",
+    "type": "property",
+    "leftLabel": "RELY FORM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GRDM",
+    "module": "RELY",
+    "command": "FORM",
+    "type": "property",
+    "leftLabel": "RELY FORM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GSTP",
+    "module": "RELY",
+    "command": "FORM",
+    "type": "property",
+    "leftLabel": "RELY FORM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "MIT1",
+    "module": "RELY",
+    "command": "FORM",
+    "type": "property",
+    "leftLabel": "RELY FORM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "MIT2",
+    "module": "RELY",
+    "command": "FORM",
+    "type": "property",
+    "leftLabel": "RELY FORM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "EPSC",
+    "module": "RELY",
+    "command": "FORM",
+    "type": "property",
+    "leftLabel": "RELY FORM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SMU",
+    "module": "RELY",
+    "command": "FORM",
+    "type": "property",
+    "leftLabel": "RELY FORM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LSF",
+    "module": "RELY",
+    "command": "FORM",
+    "type": "property",
+    "leftLabel": "RELY FORM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SORM",
+    "module": "RELY",
+    "type": "keyword",
+    "leftLabel": "RELY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SPNT",
+    "module": "RELY",
+    "command": "SORM",
+    "type": "property",
+    "leftLabel": "RELY SORM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "OPTA",
+    "module": "RELY",
+    "command": "SORM",
+    "type": "property",
+    "leftLabel": "RELY SORM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GRDM",
+    "module": "RELY",
+    "command": "SORM",
+    "type": "property",
+    "leftLabel": "RELY SORM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GSTP",
+    "module": "RELY",
+    "command": "SORM",
+    "type": "property",
+    "leftLabel": "RELY SORM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "MIT1",
+    "module": "RELY",
+    "command": "SORM",
+    "type": "property",
+    "leftLabel": "RELY SORM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "MIT2",
+    "module": "RELY",
+    "command": "SORM",
+    "type": "property",
+    "leftLabel": "RELY SORM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "EPSC",
+    "module": "RELY",
+    "command": "SORM",
+    "type": "property",
+    "leftLabel": "RELY SORM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SMU",
+    "module": "RELY",
+    "command": "SORM",
+    "type": "property",
+    "leftLabel": "RELY SORM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LSF",
+    "module": "RELY",
+    "command": "SORM",
+    "type": "property",
+    "leftLabel": "RELY SORM",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "MVFO",
+    "module": "RELY",
+    "type": "keyword",
+    "leftLabel": "RELY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SPNT",
+    "module": "RELY",
+    "command": "MVFO",
+    "type": "property",
+    "leftLabel": "RELY MVFO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GRDM",
+    "module": "RELY",
+    "command": "MVFO",
+    "type": "property",
+    "leftLabel": "RELY MVFO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GSTP",
+    "module": "RELY",
+    "command": "MVFO",
+    "type": "property",
+    "leftLabel": "RELY MVFO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "RELA",
+    "module": "RELY",
+    "command": "MVFO",
+    "type": "property",
+    "leftLabel": "RELY MVFO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LSF",
+    "module": "RELY",
+    "command": "MVFO",
+    "type": "property",
+    "leftLabel": "RELY MVFO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SUBS",
+    "module": "RELY",
+    "type": "keyword",
+    "leftLabel": "RELY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NSPL",
+    "module": "RELY",
+    "command": "SUBS",
+    "type": "property",
+    "leftLabel": "RELY SUBS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "P0",
+    "module": "RELY",
+    "command": "SUBS",
+    "type": "property",
+    "leftLabel": "RELY SUBS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LMDA",
+    "module": "RELY",
+    "command": "SUBS",
+    "type": "property",
+    "leftLabel": "RELY SUBS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NCS",
+    "module": "RELY",
+    "command": "SUBS",
+    "type": "property",
+    "leftLabel": "RELY SUBS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LSF",
+    "module": "RELY",
+    "command": "SUBS",
+    "type": "property",
+    "leftLabel": "RELY SUBS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "EXDS",
+    "module": "RELY",
+    "type": "keyword",
+    "leftLabel": "RELY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SDES",
+    "module": "RELY",
+    "command": "EXDS",
+    "type": "property",
+    "leftLabel": "RELY EXDS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "CNTR",
+    "module": "RELY",
+    "command": "EXDS",
+    "type": "property",
+    "leftLabel": "RELY EXDS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SAIF",
+    "module": "RELY",
+    "command": "EXDS",
+    "type": "property",
+    "leftLabel": "RELY EXDS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SAVE",
+    "module": "RELY",
+    "command": "EXDS",
+    "type": "property",
+    "leftLabel": "RELY EXDS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SAPD",
+    "module": "RELY",
+    "command": "EXDS",
+    "type": "property",
+    "leftLabel": "RELY EXDS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LSF",
+    "module": "RELY",
+    "command": "EXDS",
+    "type": "property",
+    "leftLabel": "RELY EXDS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SPRD",
+    "module": "RELY",
+    "command": "EXDS",
+    "type": "property",
+    "leftLabel": "RELY EXDS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "RSF",
+    "module": "RELY",
+    "type": "keyword",
+    "leftLabel": "RELY",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NAME",
+    "module": "RELY",
+    "command": "RSF",
+    "type": "property",
+    "leftLabel": "RELY RSF",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LSF",
+    "module": "RELY",
+    "command": "RSF",
+    "type": "property",
+    "leftLabel": "RELY RSF",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ANSA",
+    "module": "RELY",
+    "command": "RSF",
+    "type": "property",
+    "leftLabel": "RELY RSF",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LOAD",
+    "module": "RELY",
+    "command": "RSF",
+    "type": "property",
+    "leftLabel": "RELY RSF",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SAVE",
+    "module": "RELY",
+    "command": "RSF",
+    "type": "property",
+    "leftLabel": "RELY RSF",
     "rightLabel": "SOFiSTiK"
   },
   {
@@ -45792,6 +47357,29 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "GRP",
+    "module": "TENDON",
+    "type": "keyword",
+    "leftLabel": "TENDON",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NO",
+    "module": "TENDON",
+    "command": "GRP",
+    "type": "property",
+    "leftLabel": "TENDON GRP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "CMD",
+    "module": "TENDON",
+    "command": "GRP",
+    "type": "property",
+    "leftLabel": "TENDON GRP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "SYSP",
     "module": "TENDON",
     "type": "keyword",
@@ -45800,30 +47388,6 @@
   },
   {
     "text": "NOPS",
-    "module": "TENDON",
-    "command": "SYSP",
-    "type": "property",
-    "leftLabel": "TENDON SYSP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "COMP",
-    "module": "TENDON",
-    "command": "SYSP",
-    "type": "property",
-    "leftLabel": "TENDON SYSP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "TAPP",
-    "module": "TENDON",
-    "command": "SYSP",
-    "type": "property",
-    "leftLabel": "TENDON SYSP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "NO",
     "module": "TENDON",
     "command": "SYSP",
     "type": "property",
@@ -45927,6 +47491,78 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "SP",
+    "module": "TENDON",
+    "command": "SYSP",
+    "type": "property",
+    "leftLabel": "TENDON SYSP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SF",
+    "module": "TENDON",
+    "command": "SYSP",
+    "type": "property",
+    "leftLabel": "TENDON SYSP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LPRE",
+    "module": "TENDON",
+    "command": "SYSP",
+    "type": "property",
+    "leftLabel": "TENDON SYSP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LFIX",
+    "module": "TENDON",
+    "command": "SYSP",
+    "type": "property",
+    "leftLabel": "TENDON SYSP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DO",
+    "module": "TENDON",
+    "command": "SYSP",
+    "type": "property",
+    "leftLabel": "TENDON SYSP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TITL",
+    "module": "TENDON",
+    "command": "SYSP",
+    "type": "property",
+    "leftLabel": "TENDON SYSP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "COMP",
+    "module": "TENDON",
+    "command": "SYSP",
+    "type": "property",
+    "leftLabel": "TENDON SYSP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TAPP",
+    "module": "TENDON",
+    "command": "SYSP",
+    "type": "property",
+    "leftLabel": "TENDON SYSP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NO",
+    "module": "TENDON",
+    "command": "SYSP",
+    "type": "property",
+    "leftLabel": "TENDON SYSP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "SS",
     "module": "TENDON",
     "command": "SYSP",
@@ -45936,14 +47572,6 @@
   },
   {
     "text": "SC",
-    "module": "TENDON",
-    "command": "SYSP",
-    "type": "property",
-    "leftLabel": "TENDON SYSP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "SF",
     "module": "TENDON",
     "command": "SYSP",
     "type": "property",
@@ -45975,23 +47603,7 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "LPRE",
-    "module": "TENDON",
-    "command": "SYSP",
-    "type": "property",
-    "leftLabel": "TENDON SYSP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
     "text": "LCOP",
-    "module": "TENDON",
-    "command": "SYSP",
-    "type": "property",
-    "leftLabel": "TENDON SYSP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "LFIX",
     "module": "TENDON",
     "command": "SYSP",
     "type": "property",
@@ -46007,27 +47619,58 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "DO",
+    "text": "SYSS",
     "module": "TENDON",
-    "command": "SYSP",
+    "type": "keyword",
+    "leftLabel": "TENDON",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NOPS",
+    "module": "TENDON",
+    "command": "SYSS",
     "type": "property",
-    "leftLabel": "TENDON SYSP",
+    "leftLabel": "TENDON SYSS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "MAT",
+    "module": "TENDON",
+    "command": "SYSS",
+    "type": "property",
+    "leftLabel": "TENDON SYSS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ZV",
+    "module": "TENDON",
+    "command": "SYSS",
+    "type": "property",
+    "leftLabel": "TENDON SYSS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "AZ",
+    "module": "TENDON",
+    "command": "SYSS",
+    "type": "property",
+    "leftLabel": "TENDON SYSS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LITZ",
+    "module": "TENDON",
+    "command": "SYSS",
+    "type": "property",
+    "leftLabel": "TENDON SYSS",
     "rightLabel": "SOFiSTiK"
   },
   {
     "text": "TITL",
     "module": "TENDON",
-    "command": "SYSP",
+    "command": "SYSS",
     "type": "property",
-    "leftLabel": "TENDON SYSP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "SP",
-    "module": "TENDON",
-    "command": "SYSP",
-    "type": "property",
-    "leftLabel": "TENDON SYSP",
+    "leftLabel": "TENDON SYSS",
     "rightLabel": "SOFiSTiK"
   },
   {
@@ -46234,22 +47877,6 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "POSI",
-    "module": "TENDON",
-    "command": "TGEO",
-    "type": "property",
-    "leftLabel": "TENDON TGEO",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "DELT",
-    "module": "TENDON",
-    "command": "TGEO",
-    "type": "property",
-    "leftLabel": "TENDON TGEO",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
     "text": "TITL",
     "module": "TENDON",
     "command": "TGEO",
@@ -46259,6 +47886,22 @@
   },
   {
     "text": "GUID",
+    "module": "TENDON",
+    "command": "TGEO",
+    "type": "property",
+    "leftLabel": "TENDON TGEO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "POSI",
+    "module": "TENDON",
+    "command": "TGEO",
+    "type": "property",
+    "leftLabel": "TENDON TGEO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DELT",
     "module": "TENDON",
     "command": "TGEO",
     "type": "property",
@@ -46502,6 +48145,54 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "FTL",
+    "module": "TENDON",
+    "command": "PDAT",
+    "type": "property",
+    "leftLabel": "TENDON PDAT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FTYP",
+    "module": "TENDON",
+    "command": "PDAT",
+    "type": "property",
+    "leftLabel": "TENDON PDAT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "MATA",
+    "module": "TENDON",
+    "command": "PDAT",
+    "type": "property",
+    "leftLabel": "TENDON PDAT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "AR",
+    "module": "TENDON",
+    "command": "PDAT",
+    "type": "property",
+    "leftLabel": "TENDON PDAT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "UD",
+    "module": "TENDON",
+    "command": "PDAT",
+    "type": "property",
+    "leftLabel": "TENDON PDAT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DZ",
+    "module": "TENDON",
+    "command": "PDAT",
+    "type": "property",
+    "leftLabel": "TENDON PDAT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "EINL",
     "module": "TENDON",
     "command": "PDAT",
@@ -46534,31 +48225,7 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "MATA",
-    "module": "TENDON",
-    "command": "PDAT",
-    "type": "property",
-    "leftLabel": "TENDON PDAT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "AR",
-    "module": "TENDON",
-    "command": "PDAT",
-    "type": "property",
-    "leftLabel": "TENDON PDAT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
     "text": "UZ",
-    "module": "TENDON",
-    "command": "PDAT",
-    "type": "property",
-    "leftLabel": "TENDON PDAT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "DZ",
     "module": "TENDON",
     "command": "PDAT",
     "type": "property",
@@ -46803,7 +48470,7 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "SL",
+    "text": "SLL",
     "module": "TENDON",
     "command": "PDEF",
     "type": "property",
@@ -46969,10 +48636,42 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "GUID",
+    "module": "TENDON",
+    "command": "TEND",
+    "type": "property",
+    "leftLabel": "TENDON TEND",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "TDEL",
     "module": "TENDON",
     "type": "keyword",
     "leftLabel": "TENDON",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "AXES",
+    "module": "TENDON",
+    "command": "TDEL",
+    "type": "property",
+    "leftLabel": "TENDON TDEL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TGEO",
+    "module": "TENDON",
+    "command": "TDEL",
+    "type": "property",
+    "leftLabel": "TENDON TDEL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TEND",
+    "module": "TENDON",
+    "command": "TDEL",
+    "type": "property",
+    "leftLabel": "TENDON TDEL",
     "rightLabel": "SOFiSTiK"
   },
   {
@@ -47087,6 +48786,30 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "AXID",
+    "module": "TENDON",
+    "command": "GEOX",
+    "type": "property",
+    "leftLabel": "TENDON GEOX",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TITL",
+    "module": "TENDON",
+    "command": "GEOX",
+    "type": "property",
+    "leftLabel": "TENDON GEOX",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SEP",
+    "module": "TENDON",
+    "command": "GEOX",
+    "type": "property",
+    "leftLabel": "TENDON GEOX",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "VAL1",
     "module": "TENDON",
     "command": "GEOX",
@@ -47170,6 +48893,118 @@
     "module": "TENDON",
     "type": "keyword",
     "leftLabel": "TENDON",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "F1",
+    "module": "TENDON",
+    "command": "COLO",
+    "type": "property",
+    "leftLabel": "TENDON COLO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "F2",
+    "module": "TENDON",
+    "command": "COLO",
+    "type": "property",
+    "leftLabel": "TENDON COLO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "F3",
+    "module": "TENDON",
+    "command": "COLO",
+    "type": "property",
+    "leftLabel": "TENDON COLO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "F4",
+    "module": "TENDON",
+    "command": "COLO",
+    "type": "property",
+    "leftLabel": "TENDON COLO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "F5",
+    "module": "TENDON",
+    "command": "COLO",
+    "type": "property",
+    "leftLabel": "TENDON COLO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "F6",
+    "module": "TENDON",
+    "command": "COLO",
+    "type": "property",
+    "leftLabel": "TENDON COLO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "F7",
+    "module": "TENDON",
+    "command": "COLO",
+    "type": "property",
+    "leftLabel": "TENDON COLO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "F8",
+    "module": "TENDON",
+    "command": "COLO",
+    "type": "property",
+    "leftLabel": "TENDON COLO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "F9",
+    "module": "TENDON",
+    "command": "COLO",
+    "type": "property",
+    "leftLabel": "TENDON COLO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "F10",
+    "module": "TENDON",
+    "command": "COLO",
+    "type": "property",
+    "leftLabel": "TENDON COLO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "F11",
+    "module": "TENDON",
+    "command": "COLO",
+    "type": "property",
+    "leftLabel": "TENDON COLO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "F12",
+    "module": "TENDON",
+    "command": "COLO",
+    "type": "property",
+    "leftLabel": "TENDON COLO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "F13",
+    "module": "TENDON",
+    "command": "COLO",
+    "type": "property",
+    "leftLabel": "TENDON COLO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "F14",
+    "module": "TENDON",
+    "command": "COLO",
+    "type": "property",
+    "leftLabel": "TENDON COLO",
     "rightLabel": "SOFiSTiK"
   },
   {
@@ -47363,6 +49198,14 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "TYPG",
+    "module": "TENDON",
+    "command": "PLOT",
+    "type": "property",
+    "leftLabel": "TENDON PLOT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "FROM",
     "module": "TENDON",
     "command": "PLOT",
@@ -47379,7 +49222,7 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "TYPG",
+    "text": "PCS",
     "module": "TENDON",
     "command": "PLOT",
     "type": "property",
@@ -47395,18 +49238,278 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "PCS",
-    "module": "TENDON",
-    "command": "PLOT",
-    "type": "property",
-    "leftLabel": "TENDON PLOT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
     "text": "AND",
     "module": "TENDON",
     "type": "keyword",
     "leftLabel": "TENDON",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "EXPO",
+    "module": "TENDON",
+    "type": "keyword",
+    "leftLabel": "TENDON",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "OPT",
+    "module": "TENDON",
+    "command": "EXPO",
+    "type": "property",
+    "leftLabel": "TENDON EXPO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TO",
+    "module": "TENDON",
+    "command": "EXPO",
+    "type": "property",
+    "leftLabel": "TENDON EXPO",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "PAAS",
+    "module": "TENDON",
+    "type": "keyword",
+    "leftLabel": "TENDON",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "KIND",
+    "module": "TENDON",
+    "command": "PAAS",
+    "type": "property",
+    "leftLabel": "TENDON PAAS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ANWS",
+    "module": "TENDON",
+    "command": "PAAS",
+    "type": "property",
+    "leftLabel": "TENDON PAAS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "K1",
+    "module": "TENDON",
+    "command": "PAAS",
+    "type": "property",
+    "leftLabel": "TENDON PAAS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "K2",
+    "module": "TENDON",
+    "command": "PAAS",
+    "type": "property",
+    "leftLabel": "TENDON PAAS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "K3",
+    "module": "TENDON",
+    "command": "PAAS",
+    "type": "property",
+    "leftLabel": "TENDON PAAS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SLAB",
+    "module": "TENDON",
+    "type": "keyword",
+    "leftLabel": "TENDON",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NOT",
+    "module": "TENDON",
+    "command": "SLAB",
+    "type": "property",
+    "leftLabel": "TENDON SLAB",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "REFS",
+    "module": "TENDON",
+    "command": "SLAB",
+    "type": "property",
+    "leftLabel": "TENDON SLAB",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NOPS",
+    "module": "TENDON",
+    "command": "SLAB",
+    "type": "property",
+    "leftLabel": "TENDON SLAB",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TYPG",
+    "module": "TENDON",
+    "command": "SLAB",
+    "type": "property",
+    "leftLabel": "TENDON SLAB",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ICS1",
+    "module": "TENDON",
+    "command": "SLAB",
+    "type": "property",
+    "leftLabel": "TENDON SLAB",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ICS2",
+    "module": "TENDON",
+    "command": "SLAB",
+    "type": "property",
+    "leftLabel": "TENDON SLAB",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ICS3",
+    "module": "TENDON",
+    "command": "SLAB",
+    "type": "property",
+    "leftLabel": "TENDON SLAB",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "S0",
+    "module": "TENDON",
+    "command": "SLAB",
+    "type": "property",
+    "leftLabel": "TENDON SLAB",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ZSPT",
+    "module": "TENDON",
+    "command": "SLAB",
+    "type": "property",
+    "leftLabel": "TENDON SLAB",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ZSPB",
+    "module": "TENDON",
+    "command": "SLAB",
+    "type": "property",
+    "leftLabel": "TENDON SLAB",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FRLT",
+    "module": "TENDON",
+    "command": "SLAB",
+    "type": "property",
+    "leftLabel": "TENDON SLAB",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FRLL",
+    "module": "TENDON",
+    "command": "SLAB",
+    "type": "property",
+    "leftLabel": "TENDON SLAB",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LC",
+    "module": "TENDON",
+    "command": "SLAB",
+    "type": "property",
+    "leftLabel": "TENDON SLAB",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TITL",
+    "module": "TENDON",
+    "command": "SLAB",
+    "type": "property",
+    "leftLabel": "TENDON SLAB",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SLBS",
+    "module": "TENDON",
+    "type": "keyword",
+    "leftLabel": "TENDON",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NOT",
+    "module": "TENDON",
+    "command": "SLBS",
+    "type": "property",
+    "leftLabel": "TENDON SLBS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "BIT",
+    "module": "TENDON",
+    "command": "SLBS",
+    "type": "property",
+    "leftLabel": "TENDON SLBS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "S",
+    "module": "TENDON",
+    "command": "SLBS",
+    "type": "property",
+    "leftLabel": "TENDON SLBS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ZS",
+    "module": "TENDON",
+    "command": "SLBS",
+    "type": "property",
+    "leftLabel": "TENDON SLBS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DZS",
+    "module": "TENDON",
+    "command": "SLBS",
+    "type": "property",
+    "leftLabel": "TENDON SLBS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DL",
+    "module": "TENDON",
+    "command": "SLBS",
+    "type": "property",
+    "leftLabel": "TENDON SLBS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DR",
+    "module": "TENDON",
+    "command": "SLBS",
+    "type": "property",
+    "leftLabel": "TENDON SLBS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "RV",
+    "module": "TENDON",
+    "command": "SLBS",
+    "type": "property",
+    "leftLabel": "TENDON SLBS",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "RL",
+    "module": "TENDON",
+    "command": "SLBS",
+    "type": "property",
+    "leftLabel": "TENDON SLBS",
     "rightLabel": "SOFiSTiK"
   },
   {
