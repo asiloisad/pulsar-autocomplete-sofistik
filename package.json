@@ -23,7 +23,7 @@
       }
     }
   },
-  "license": "GPL-3.0-or-later",
+  "license": "MIT",
   "package-deps": [
     {
       "name": "language-sofistik"

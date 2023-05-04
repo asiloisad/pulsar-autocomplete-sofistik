@@ -1,5 +1,10 @@
 # autocomplete-sofistik
 
+![Tag](https://img.shields.io/github/v/tag/bacadra/atom-autocomplete-sofistik?style=for-the-badge)
+![LastCommit](https://img.shields.io/github/last-commit/bacadra/atom-autocomplete-sofistik?style=for-the-badge)
+![RepoSize](https://img.shields.io/github/repo-size/bacadra/atom-autocomplete-sofistik?style=for-the-badge)
+![Licence](https://img.shields.io/github/license/bacadra/atom-autocomplete-sofistik?style=for-the-badge)
+
 Get the hints during you typing the code in SOFiSTiK language.
 
 ![demo](https://github.com/bacadra/atom-autocomplete-sofistik/blob/master/demo.gif?raw=true)
