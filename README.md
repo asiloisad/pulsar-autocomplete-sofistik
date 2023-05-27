@@ -17,7 +17,7 @@
 
 Get the hints during typing the SOFiSTiK input.
 
-![demo](https://github.com/bacadra/atom-autocomplete-sofistik/blob/master/demo.gif?raw=true)
+![demo](https://github.com/bacadra/atom-autocomplete-sofistik/blob/master/assets/demo.gif?raw=true)
 
 ## Installation
 
