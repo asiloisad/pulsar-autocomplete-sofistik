@@ -15,7 +15,7 @@
   </a>
 </p>
 
-Get the hints during you typing the code in SOFiSTiK language.
+Get the hints during typing the SOFiSTiK input.
 
 ![demo](https://github.com/bacadra/atom-autocomplete-sofistik/blob/master/demo.gif?raw=true)
 
