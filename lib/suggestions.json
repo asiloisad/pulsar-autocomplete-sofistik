@@ -35988,14 +35988,6 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "Y2",
-    "module": "SOFILOAD",
-    "command": "TRPL",
-    "type": "property",
-    "leftLabel": "SOFILOAD TRPL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
     "text": "HW",
     "module": "SOFILOAD",
     "command": "TRPL",
@@ -36021,6 +36013,14 @@
   },
   {
     "text": "PHI",
+    "module": "SOFILOAD",
+    "command": "TRPL",
+    "type": "property",
+    "leftLabel": "SOFILOAD TRPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NW",
     "module": "SOFILOAD",
     "command": "TRPL",
     "type": "property",
@@ -36132,6 +36132,14 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "Y2",
+    "module": "SOFILOAD",
+    "command": "TRPL",
+    "type": "property",
+    "leftLabel": "SOFILOAD TRPL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "TRBL",
     "module": "SOFILOAD",
     "type": "keyword",
@@ -36227,14 +36235,6 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "Y2",
-    "module": "SOFILOAD",
-    "command": "TRBL",
-    "type": "property",
-    "leftLabel": "SOFILOAD TRBL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
     "text": "HW",
     "module": "SOFILOAD",
     "command": "TRBL",
@@ -36260,6 +36260,14 @@
   },
   {
     "text": "PHI",
+    "module": "SOFILOAD",
+    "command": "TRBL",
+    "type": "property",
+    "leftLabel": "SOFILOAD TRBL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "NW",
     "module": "SOFILOAD",
     "command": "TRBL",
     "type": "property",
@@ -36356,6 +36364,14 @@
   },
   {
     "text": "DAWH",
+    "module": "SOFILOAD",
+    "command": "TRBL",
+    "type": "property",
+    "leftLabel": "SOFILOAD TRBL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "Y2",
     "module": "SOFILOAD",
     "command": "TRBL",
     "type": "property",
@@ -52062,7 +52078,7 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "COLO",
+    "text": "COLI",
     "module": "WING",
     "command": "FILL",
     "type": "property",
