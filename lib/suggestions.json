@@ -14636,46 +14636,6 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "SYST",
-    "module": "BEMESS",
-    "command": "CTRL",
-    "type": "property",
-    "leftLabel": "BEMESS CTRL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "WALL",
-    "module": "BEMESS",
-    "command": "CTRL",
-    "type": "property",
-    "leftLabel": "BEMESS CTRL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "AUGM",
-    "module": "BEMESS",
-    "command": "CTRL",
-    "type": "property",
-    "leftLabel": "BEMESS CTRL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "THIC",
-    "module": "BEMESS",
-    "command": "CTRL",
-    "type": "property",
-    "leftLabel": "BEMESS CTRL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "TENS",
-    "module": "BEMESS",
-    "command": "CTRL",
-    "type": "property",
-    "leftLabel": "BEMESS CTRL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
     "text": "LCR",
     "module": "BEMESS",
     "command": "CTRL",
@@ -14685,6 +14645,30 @@
   },
   {
     "text": "LCRI",
+    "module": "BEMESS",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "BEMESS CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "LCRP",
+    "module": "BEMESS",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "BEMESS CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DMOM",
+    "module": "BEMESS",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "BEMESS CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TENS",
     "module": "BEMESS",
     "command": "CTRL",
     "type": "property",
@@ -14716,15 +14700,7 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "FACH",
-    "module": "BEMESS",
-    "command": "CTRL",
-    "type": "property",
-    "leftLabel": "BEMESS CTRL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "WARN",
+    "text": "VLEV",
     "module": "BEMESS",
     "command": "CTRL",
     "type": "property",
@@ -14733,110 +14709,6 @@
   },
   {
     "text": "BOUN",
-    "module": "BEMESS",
-    "command": "CTRL",
-    "type": "property",
-    "leftLabel": "BEMESS CTRL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "VF70",
-    "module": "BEMESS",
-    "command": "CTRL",
-    "type": "property",
-    "leftLabel": "BEMESS CTRL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "SNIP",
-    "module": "BEMESS",
-    "command": "CTRL",
-    "type": "property",
-    "leftLabel": "BEMESS CTRL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "WINT",
-    "module": "BEMESS",
-    "command": "CTRL",
-    "type": "property",
-    "leftLabel": "BEMESS CTRL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "WEND",
-    "module": "BEMESS",
-    "command": "CTRL",
-    "type": "property",
-    "leftLabel": "BEMESS CTRL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "REDN",
-    "module": "BEMESS",
-    "command": "CTRL",
-    "type": "property",
-    "leftLabel": "BEMESS CTRL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "RADP",
-    "module": "BEMESS",
-    "command": "CTRL",
-    "type": "property",
-    "leftLabel": "BEMESS CTRL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "BUBB",
-    "module": "BEMESS",
-    "command": "CTRL",
-    "type": "property",
-    "leftLabel": "BEMESS CTRL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "REDM",
-    "module": "BEMESS",
-    "command": "CTRL",
-    "type": "property",
-    "leftLabel": "BEMESS CTRL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "VPDC",
-    "module": "BEMESS",
-    "command": "CTRL",
-    "type": "property",
-    "leftLabel": "BEMESS CTRL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "SIGZ",
-    "module": "BEMESS",
-    "command": "CTRL",
-    "type": "property",
-    "leftLabel": "BEMESS CTRL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "LCRP",
-    "module": "BEMESS",
-    "command": "CTRL",
-    "type": "property",
-    "leftLabel": "BEMESS CTRL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "WTEN",
-    "module": "BEMESS",
-    "command": "CTRL",
-    "type": "property",
-    "leftLabel": "BEMESS CTRL",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "DMOM",
     "module": "BEMESS",
     "command": "CTRL",
     "type": "property",
@@ -14860,7 +14732,55 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "WINT",
+    "module": "BEMESS",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "BEMESS CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "WEND",
+    "module": "BEMESS",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "BEMESS CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "BETA",
+    "module": "BEMESS",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "BEMESS CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "RADP",
+    "module": "BEMESS",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "BEMESS CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VPDC",
+    "module": "BEMESS",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "BEMESS CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SIGZ",
+    "module": "BEMESS",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "BEMESS CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "WTEN",
     "module": "BEMESS",
     "command": "CTRL",
     "type": "property",
@@ -14876,7 +14796,63 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "BUBB",
+    "module": "BEMESS",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "BEMESS CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "REDN",
+    "module": "BEMESS",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "BEMESS CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "REDM",
+    "module": "BEMESS",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "BEMESS CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FACH",
+    "module": "BEMESS",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "BEMESS CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SNIP",
+    "module": "BEMESS",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "BEMESS CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "WALL",
+    "module": "BEMESS",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "BEMESS CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "CORE",
+    "module": "BEMESS",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "BEMESS CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "WARN",
     "module": "BEMESS",
     "command": "CTRL",
     "type": "property",
@@ -14893,6 +14869,38 @@
   },
   {
     "text": "V3",
+    "module": "BEMESS",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "BEMESS CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "SYST",
+    "module": "BEMESS",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "BEMESS CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "AUGM",
+    "module": "BEMESS",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "BEMESS CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "THIC",
+    "module": "BEMESS",
+    "command": "CTRL",
+    "type": "property",
+    "leftLabel": "BEMESS CTRL",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "VF70",
     "module": "BEMESS",
     "command": "CTRL",
     "type": "property",
@@ -14922,14 +14930,6 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "MUEZ",
-    "module": "BEMESS",
-    "command": "CRAC",
-    "type": "property",
-    "leftLabel": "BEMESS CRAC",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
     "text": "XMIN",
     "module": "BEMESS",
     "command": "CRAC",
@@ -14938,31 +14938,7 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "DDES",
-    "module": "BEMESS",
-    "command": "CRAC",
-    "type": "property",
-    "leftLabel": "BEMESS CRAC",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "STAN",
-    "module": "BEMESS",
-    "command": "CRAC",
-    "type": "property",
-    "leftLabel": "BEMESS CRAC",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
     "text": "WK",
-    "module": "BEMESS",
-    "command": "CRAC",
-    "type": "property",
-    "leftLabel": "BEMESS CRAC",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "BETA",
     "module": "BEMESS",
     "command": "CRAC",
     "type": "property",
@@ -14994,6 +14970,54 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "WKB",
+    "module": "BEMESS",
+    "command": "CRAC",
+    "type": "property",
+    "leftLabel": "BEMESS CRAC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "CODE",
+    "module": "BEMESS",
+    "command": "CRAC",
+    "type": "property",
+    "leftLabel": "BEMESS CRAC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "MUEZ",
+    "module": "BEMESS",
+    "command": "CRAC",
+    "type": "property",
+    "leftLabel": "BEMESS CRAC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DDES",
+    "module": "BEMESS",
+    "command": "CRAC",
+    "type": "property",
+    "leftLabel": "BEMESS CRAC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "STAN",
+    "module": "BEMESS",
+    "command": "CRAC",
+    "type": "property",
+    "leftLabel": "BEMESS CRAC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "BETA",
+    "module": "BEMESS",
+    "command": "CRAC",
+    "type": "property",
+    "leftLabel": "BEMESS CRAC",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "K1",
     "module": "BEMESS",
     "command": "CRAC",
@@ -15003,14 +15027,6 @@
   },
   {
     "text": "DDEB",
-    "module": "BEMESS",
-    "command": "CRAC",
-    "type": "property",
-    "leftLabel": "BEMESS CRAC",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "WKB",
     "module": "BEMESS",
     "command": "CRAC",
     "type": "property",
@@ -15223,6 +15239,14 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "G_SD",
+    "module": "BEMESS",
+    "command": "NSTR",
+    "type": "property",
+    "leftLabel": "BEMESS NSTR",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "MAT",
     "module": "BEMESS",
     "type": "keyword",
@@ -15254,22 +15278,6 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "BETZ",
-    "module": "BEMESS",
-    "command": "MAT",
-    "type": "property",
-    "leftLabel": "BEMESS MAT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "N",
-    "module": "BEMESS",
-    "command": "MAT",
-    "type": "property",
-    "leftLabel": "BEMESS MAT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
     "text": "MINC",
     "module": "BEMESS",
     "command": "MAT",
@@ -15286,30 +15294,6 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "T011",
-    "module": "BEMESS",
-    "command": "MAT",
-    "type": "property",
-    "leftLabel": "BEMESS MAT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "T02",
-    "module": "BEMESS",
-    "command": "MAT",
-    "type": "property",
-    "leftLabel": "BEMESS MAT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "T03",
-    "module": "BEMESS",
-    "command": "MAT",
-    "type": "property",
-    "leftLabel": "BEMESS MAT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
     "text": "AM3",
     "module": "BEMESS",
     "command": "MAT",
@@ -15318,7 +15302,7 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "FC",
+    "text": "FV",
     "module": "BEMESS",
     "command": "MAT",
     "type": "property",
@@ -15334,23 +15318,7 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "TU0",
-    "module": "BEMESS",
-    "command": "MAT",
-    "type": "property",
-    "leftLabel": "BEMESS MAT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "TUGR",
-    "module": "BEMESS",
-    "command": "MAT",
-    "type": "property",
-    "leftLabel": "BEMESS MAT",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "TRD",
+    "text": "FYS",
     "module": "BEMESS",
     "command": "MAT",
     "type": "property",
@@ -15383,6 +15351,94 @@
   },
   {
     "text": "SS2",
+    "module": "BEMESS",
+    "command": "MAT",
+    "type": "property",
+    "leftLabel": "BEMESS MAT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "C1",
+    "module": "BEMESS",
+    "command": "MAT",
+    "type": "property",
+    "leftLabel": "BEMESS MAT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "S2",
+    "module": "BEMESS",
+    "command": "MAT",
+    "type": "property",
+    "leftLabel": "BEMESS MAT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "BETZ",
+    "module": "BEMESS",
+    "command": "MAT",
+    "type": "property",
+    "leftLabel": "BEMESS MAT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "N",
+    "module": "BEMESS",
+    "command": "MAT",
+    "type": "property",
+    "leftLabel": "BEMESS MAT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "T011",
+    "module": "BEMESS",
+    "command": "MAT",
+    "type": "property",
+    "leftLabel": "BEMESS MAT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "T02",
+    "module": "BEMESS",
+    "command": "MAT",
+    "type": "property",
+    "leftLabel": "BEMESS MAT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "T03",
+    "module": "BEMESS",
+    "command": "MAT",
+    "type": "property",
+    "leftLabel": "BEMESS MAT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "FC",
+    "module": "BEMESS",
+    "command": "MAT",
+    "type": "property",
+    "leftLabel": "BEMESS MAT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TU0",
+    "module": "BEMESS",
+    "command": "MAT",
+    "type": "property",
+    "leftLabel": "BEMESS MAT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TUGR",
+    "module": "BEMESS",
+    "command": "MAT",
+    "type": "property",
+    "leftLabel": "BEMESS MAT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "TRD",
     "module": "BEMESS",
     "command": "MAT",
     "type": "property",
@@ -15800,6 +15856,14 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "DU2",
+    "module": "BEMESS",
+    "command": "PARA",
+    "type": "property",
+    "leftLabel": "BEMESS PARA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "DU3",
     "module": "BEMESS",
     "command": "PARA",
@@ -16032,6 +16096,62 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "XMIN",
+    "module": "BEMESS",
+    "command": "PARA",
+    "type": "property",
+    "leftLabel": "BEMESS PARA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "XMAX",
+    "module": "BEMESS",
+    "command": "PARA",
+    "type": "property",
+    "leftLabel": "BEMESS PARA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "YMIN",
+    "module": "BEMESS",
+    "command": "PARA",
+    "type": "property",
+    "leftLabel": "BEMESS PARA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "YMAX",
+    "module": "BEMESS",
+    "command": "PARA",
+    "type": "property",
+    "leftLabel": "BEMESS PARA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ZMIN",
+    "module": "BEMESS",
+    "command": "PARA",
+    "type": "property",
+    "leftLabel": "BEMESS PARA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ZMAX",
+    "module": "BEMESS",
+    "command": "PARA",
+    "type": "property",
+    "leftLabel": "BEMESS PARA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "ROT",
+    "module": "BEMESS",
+    "command": "PARA",
+    "type": "property",
+    "leftLabel": "BEMESS PARA",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "PUNC",
     "module": "BEMESS",
     "type": "keyword",
@@ -16253,6 +16373,22 @@
     "rightLabel": "SOFiSTiK"
   },
   {
+    "text": "SAR",
+    "module": "BEMESS",
+    "command": "GRP",
+    "type": "property",
+    "leftLabel": "BEMESS GRP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "CS",
+    "module": "BEMESS",
+    "command": "GRP",
+    "type": "property",
+    "leftLabel": "BEMESS GRP",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
     "text": "ENVA",
     "module": "BEMESS",
     "command": "GRP",
@@ -16294,22 +16430,6 @@
   },
   {
     "text": "SIGL",
-    "module": "BEMESS",
-    "command": "GRP",
-    "type": "property",
-    "leftLabel": "BEMESS GRP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "SAR",
-    "module": "BEMESS",
-    "command": "GRP",
-    "type": "property",
-    "leftLabel": "BEMESS GRP",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
-    "text": "CS",
     "module": "BEMESS",
     "command": "GRP",
     "type": "property",
@@ -16411,7 +16531,7 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "DELT",
+    "text": "INC",
     "module": "BEMESS",
     "command": "NODE",
     "type": "property",
@@ -16420,6 +16540,14 @@
   },
   {
     "text": "GROU",
+    "module": "BEMESS",
+    "command": "NODE",
+    "type": "property",
+    "leftLabel": "BEMESS NODE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "DELT",
     "module": "BEMESS",
     "command": "NODE",
     "type": "property",
@@ -16459,14 +16587,6 @@
     "rightLabel": "SOFiSTiK"
   },
   {
-    "text": "INC",
-    "module": "BEMESS",
-    "command": "NODE",
-    "type": "property",
-    "leftLabel": "BEMESS NODE",
-    "rightLabel": "SOFiSTiK"
-  },
-  {
     "text": "SELE",
     "module": "BEMESS",
     "type": "keyword",
@@ -16483,6 +16603,14 @@
   },
   {
     "text": "TYPE",
+    "module": "BEMESS",
+    "command": "SELE",
+    "type": "property",
+    "leftLabel": "BEMESS SELE",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GRP",
     "module": "BEMESS",
     "command": "SELE",
     "type": "property",
@@ -27842,6 +27970,14 @@
   },
   {
     "text": "PS1S",
+    "module": "MAXIMA",
+    "command": "ACT",
+    "type": "property",
+    "leftLabel": "MAXIMA ACT",
+    "rightLabel": "SOFiSTiK"
+  },
+  {
+    "text": "GAMA",
     "module": "MAXIMA",
     "command": "ACT",
     "type": "property",
