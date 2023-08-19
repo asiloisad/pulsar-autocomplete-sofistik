@@ -4,7 +4,7 @@
   "version": "0.1.25",
   "description": "Autocomplete for SOFiSTiK language",
   "engines": {
-    "atom": ">=1.15.0 <2.0.0"
+    "atom": ">=1.100.0 <2.0.0"
   },
   "keywords": [
     "bacadra",
@@ -13,9 +13,9 @@
     "sofistik"
   ],
   "readmeFilename": "README.md",
-  "homepage": "https://github.com/bacadra/atom-autocomplete-sofistik",
-  "url": "https://github.com/bacadra/atom-autocomplete-sofistik/issues",
-  "repository": "https://github.com/bacadra/atom-autocomplete-sofistik",
+  "homepage": "https://github.com/bacadra/pulsar-autocomplete-sofistik",
+  "url": "https://github.com/bacadra/pulsar-autocomplete-sofistik/issues",
+  "repository": "https://github.com/bacadra/pulsar-autocomplete-sofistik",
   "providedServices": {
     "autocomplete.provider": {
       "versions": {
