@@ -23,11 +23,11 @@ Get the hints during typing the SOFiSTiK input.
 
 To install `autocomplete-sofistik` search for [autocomplete-sofistik](https://web.pulsar-edit.dev/packages/autocomplete-sofistik) in the Install pane of the Pulsar settings or run `ppm install autocomplete-sofistik`.
 
-Alternatively, run `ppm install bacadra/pulsar-autocomplete-sofistik` to install a package directly from Github repository.
+Alternatively, you can run `ppm install bacadra/pulsar-autocomplete-sofistik` to install a package directly from the Github repository.
 
 ## Compatibility
 
-**Support versions of SOFiSTiK are 2023, 2022, 2020 and 2018. English only.** As the package supports many versions of SOFiSTiK, the package hints may become invalid for certain versions due to changing commands and features.
+**Support versions of SOFiSTiK are 2024, 2023, 2022, 2020 and 2018. English only.** As the package supports many versions of SOFiSTiK, the package hints may become invalid for certain versions due to changing commands and features.
 
 # Contributing [🍺](https://www.buymeacoffee.com/asiloisad)
 
