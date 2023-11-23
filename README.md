@@ -15,9 +15,9 @@
   </a>
 </p>
 
-Get the hints during typing the SOFiSTiK input.
-
 ![demo](https://github.com/bacadra/pulsar-autocomplete-sofistik/blob/master/assets/demo.gif?raw=true)
+
+Get the hints during typing the SOFiSTiK input. A package [language-sofistik](https://github.com/bacadra/pulsar-language-sofistik) is required.
 
 ## Installation
 

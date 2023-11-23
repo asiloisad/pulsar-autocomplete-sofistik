@@ -23,10 +23,5 @@
       }
     }
   },
-  "license": "MIT",
-  "package-deps": [
-    {
-      "name": "language-sofistik"
-    }
-  ]
+  "license": "MIT"
 }
