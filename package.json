@@ -1,7 +1,7 @@
 {
   "name": "autocomplete-sofistik",
   "main": "./lib/main",
-  "version": "0.1.26",
+  "version": "0.1.27",
   "description": "Autocomplete for SOFiSTiK language",
   "engines": {
     "atom": ">=1.100.0 <2.0.0"
