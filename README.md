@@ -1,8 +1,8 @@
 # autocomplete-sofistik
 
-![demo](https://github.com/bacadra/pulsar-autocomplete-sofistik/blob/master/assets/demo.gif?raw=true)
+Get hints as you type the SOFiSTiK input. A grammar supply package is required, e.g. [language-sofistik](https://github.com/bacadra/pulsar-language-sofistik). 
 
-Get the hints during typing the SOFiSTiK input. A package [language-sofistik](https://github.com/bacadra/pulsar-language-sofistik) is required.
+![demo](https://github.com/bacadra/pulsar-autocomplete-sofistik/blob/master/assets/demo.gif?raw=true)
 
 ## Installation
 
@@ -10,8 +10,8 @@ To install `autocomplete-sofistik` search for [autocomplete-sofistik](https://we
 
 ## Compatibility
 
-**Support versions of SOFiSTiK are 2024, 2023, 2022, 2020 and 2018. English only.**
+Support versions of SOFiSTiK are 2025, 2024, 2023, 2022, 2020 and 2018. English only.
 
 # Contributing
 
-If you have any ideas on how to improve the package, spot any bugs, or would like to support the development of new features, please feel free to share them via GitHub.
+Got ideas to make this package better, found a bug, or want to help add new features? Just drop your thoughts on GitHub — any feedback’s welcome!
