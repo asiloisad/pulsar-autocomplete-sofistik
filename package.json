@@ -1,7 +1,7 @@
 {
   "name": "autocomplete-sofistik",
   "description": "Get hints as you type the SOFiSTiK input",
-  "repository": "https://github.com/bacadra/pulsar-autocomplete-sofistik",
+  "repository": "https://github.com/asiloisad/pulsar-autocomplete-sofistik",
   "keywords": [
     "autocomplete",
     "sofistik"
