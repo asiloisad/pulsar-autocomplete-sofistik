@@ -18,5 +18,18 @@
         "4.0.0": "getProvider"
       }
     }
+  },
+  "configSchema": {
+    "textCase": {
+      "order": 1,
+      "title": "Suggestions case",
+      "description": "Convert case for suggestion elements.",
+      "type": "boolean",
+      "enum": [
+        { "value": true , "description": "Uppercase" },
+        { "value": false, "description": "Lowercase" }
+      ],
+      "default": true
+    }
   }
 }
