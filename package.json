@@ -7,7 +7,7 @@
     "sofistik"
   ],
   "license": "MIT",
-  "version": "0.1.30",
+  "version": "0.1.31",
   "engines": {
     "atom": ">=1.100.0 <2.0.0"
   },
@@ -26,8 +26,14 @@
       "description": "Convert case for suggestion elements.",
       "type": "boolean",
       "enum": [
-        { "value": true , "description": "Uppercase" },
-        { "value": false, "description": "Lowercase" }
+        {
+          "value": true,
+          "description": "Uppercase"
+        },
+        {
+          "value": false,
+          "description": "Lowercase"
+        }
       ],
       "default": true
     }
