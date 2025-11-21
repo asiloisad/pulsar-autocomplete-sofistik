@@ -1,8 +1,14 @@
 # autocomplete-sofistik
 
-Get hints as you type the SOFiSTiK input. A grammar supply package is required, e.g. [language-sofistik](https://github.com/asiloisad/pulsar-language-sofistik).
+Get hints as you type the SOFiSTiK input. Provides intelligent autocomplete suggestions for SOFiSTiK modules, commands, and parameters. This package requires [language-sofistik](https://github.com/asiloisad/pulsar-language-sofistik) v1.0.0 or later to function.
 
 ![demo](https://github.com/asiloisad/pulsar-autocomplete-sofistik/blob/master/assets/demo.gif?raw=true)
+
+- **Context-aware suggestions**: Autocomplete adapts to your current module and command context
+- **Module completion**: Suggests SOFiSTiK module names when typing `+PROG`
+- **Command completion**: Provides available commands for the current module
+- **Parameter completion**: Suggests valid parameters for the current command
+- **Configurable case**: Choose between uppercase or lowercase suggestions
 
 ## Installation
 
